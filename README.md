@@ -26,7 +26,7 @@
 static string[] Integrantes() {
     return new string[] {
         "🧑‍💻 Ruiz Huisa, Daniel Elias - 202210764",
-        "👩‍💻 Apellidos, Nombres - Código",
+        "🧑‍💻 Villugas Jeronimo , Liam Anderson - 202211634",
         "👨‍💻 Apellidos, Nombres - Código",
         "👩‍💻 Apellidos, Nombres - Código",       
         "👩‍💻 Apellidos, Nombres - Código", 
