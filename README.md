@@ -164,7 +164,93 @@ Agosto del 2025 🗓️
 
 ## 1.1. Startup Profile 📌
 ### 1.1.1. Descripción de la Startup
+ProtectX es una startup del sector seguridad que busca responder al problema de la creciente inseguridad ciudadana en Lima y sus alrededores. Ofrece un servicio innovador basado en IoT que, ante cualquier irregularidad, envía una alerta inmediata a la entidad policial más cercana. Su propuesta combina sensores, alarmas y cámaras inteligentes, gestionadas desde una aplicación móvil que centraliza la información. El modelo de negocio se sustenta en un sistema de suscripción por niveles, que permite a los usuarios acceder a mayor cantidad de sensores según sus necesidades. Dirigida a personas que viven solas o que sienten temor por la inseguridad, ProtectX busca proporcionar un ambiente más seguro y fortalecer la protección de cada vivienda.
 ### 1.1.2. Perfiles de integrantes del equipo  
+<div align='center'>
+   <!--TODO: integrante 1 -->
+  > 🧑‍💻 <strong>Daniel Elias Ruiz Huisa</strong> 
+   
+
+   <div align='center'>
+     
+   <img src="resources/members/daniel.png" alt="imagen Daniel" width="100" align='right'>
+
+   ~~~txt
+   Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el 6to ciclo de la carrera.
+   
+   Durante mi formación he adquirido conocimientos en diversas tecnologías y buenas prácticas de desarrollo. Mis principales fortalezas se encuentran lenguajes con orientados fuertemente a la POO como C++ y Java. 
+
+   Adicionalmente, he trabajado con PGAdmin, MongoAtlas, MySQLlite como gestores de bases de datos, y con tecnologías web que me permiten tener una visión integral del desarrollo de software.
+
+   ~~~
+
+   </div>
+
+
+   <div align='center'>
+   <!--TODO: integrante 2 -->
+  > 🧑‍💻 <strong>[Complete Name]</strong> 
+   
+
+   <div align='center'>
+     
+   <img src="resources/members/[name].png" alt="imagen [name]" width="100" align='right'>
+
+   ~~~txt
+[descripcion]
+
+   ~~~
+
+   </div>
+
+
+      <div align='center'>
+   <!--TODO: integrante 3 -->
+  > 🧑‍💻 <strong>[Complete Name]</strong> 
+   
+
+   <div align='center'>
+     
+   <img src="resources/members/[name].png" alt="imagen [name]" width="100" align='right'>
+
+   ~~~txt
+[descripcion]
+
+   ~~~
+
+   </div>
+
+      <div align='center'>
+   <!--TODO: integrante 4 -->
+  > 🧑‍💻 <strong>[Complete Name]</strong> 
+   
+
+   <div align='center'>
+     
+   <img src="resources/members/[name].png" alt="imagen [name]" width="100" align='right'>
+
+   ~~~txt
+[descripcion]
+
+   ~~~
+
+   </div>
+
+      <div align='center'>
+   <!--TODO: integrante 5 -->
+  > 🧑‍💻 <strong>[Complete Name]</strong> 
+   
+
+   <div align='center'>
+     
+   <img src="resources/members/[name].png" alt="imagen [name]" width="100" align='right'>
+
+   ~~~txt
+[descripcion]
+
+   ~~~
+
+   </div>
 
 ---
 
