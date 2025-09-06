@@ -204,7 +204,7 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
    </div>
 
 
-      <div align='center'>
+    <div align='center'>
    <!--TODO: integrante 3 -->
   > 🧑‍💻 <strong>[Complete Name]</strong> 
    
@@ -253,17 +253,41 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
    </div>
 
 ---
+<div align='left'>
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática  
+
+<b>Problemática general</b>
+En Lima y sus alrededores, la inseguridad ciudadana se ha convertido en una de las principales preocupaciones de la población. El aumento de robos, asaltos y delitos contra la propiedad ha superado la efectividad de los métodos tradicionales de protección, como rejas o rondas vecinales, generando una creciente sensación de vulnerabilidad. Este escenario plantea la necesidad de soluciones más eficientes que respondan a la magnitud del problema.
+
+<b>Dimensión social</b>
+La inseguridad no solo afecta el patrimonio de los ciudadanos, sino también su bienestar emocional. Muchas personas viven con miedo constante, lo que reduce su calidad de vida y limita su libertad de movimiento, especialmente en sectores donde los índices delictivos son más altos. Este clima de temor generalizado genera desconfianza en la comunidad, debilitando los lazos sociales y reforzando la percepción de que los hogares no son espacios plenamente seguros.
+
+<b>Dimensión económica</b>
+El impacto económico de la inseguridad se refleja en pérdidas materiales por robos, daños en las viviendas y el gasto recurrente en medidas de protección tradicionales que resultan insuficientes. Además, obliga a las familias a destinar recursos adicionales a reforzar la seguridad, lo que representa una carga financiera significativa. En conjunto, estos costos reducen la capacidad de ahorro y afectan la economía doméstica, evidenciando que la inseguridad es también un problema que compromete la estabilidad financiera de los hogares.
+
 #### 5W’s + 2H’s
-- 🟢 WHAT (Qué)  
-- 🟢 WHEN (Cuándo)  
-- 🟢 WHERE (Dónde)  
-- 🟢 WHO (Quién)  
-- 🟢 WHY (Por qué)  
-- 🟢 HOW (Cómo)  
-- 🟢 HOW MUCH (Cuánto)  
+ 🟢 **WHAT (Qué)**  
+  Creciente ola de inseguridad ciudadana caracterizada por robos, asaltos y delitos contra la propiedad.  
+
+ 🟢 **WHEN (Cuándo)**  
+  Actualmente, con mayor incidencia en los últimos años debido al incremento sostenido de la criminalidad.  
+
+ 🟢 **WHERE (Dónde)**  
+  Principalmente en Lima Metropolitana y zonas aledañas con altos índices delictivos.  
+
+ 🟢 **WHO (Quién)**  
+  Ciudadanos en general, con especial impacto en personas que viven solas o con temor frente a la inseguridad.  
+
+ 🟢 **WHY (Por qué)**  
+  Falta de respuestas rápidas y efectivas ante emergencias, limitada capacidad de cobertura policial y deficiencia en las medidas tradicionales de seguridad.  
+
+ 🟢 **HOW (Cómo)**  
+  Las personas recurren a rejas, cerraduras, cámaras convencionales o rondas vecinales, pero estas acciones resultan insuficientes frente a la magnitud del problema.  
+
+ 🟢 **HOW MUCH (Cuánto)**   
+ El costo se refleja en pérdidas materiales por robos, daños en viviendas y una carga financiera extra para las familias, además del impacto social derivado del miedo y la desconfianza.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements  
@@ -390,4 +414,4 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
 # Anexos  
 > Evidencias, capturas, diagramas adicionales.  
-
+</div>
