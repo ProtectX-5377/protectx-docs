@@ -512,46 +512,48 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 
 ---
 
-# Capítulo II: Requirements Elicitation & Analysis
+# Capítulo II: Requirements Elicitation & Analysis — ProtectX
 
 ## 2.1. Competidores
 
 ### 2.1.1. Análisis competitivo
 
-> Criterios de comparación: público objetivo principal, complejidad de uso, costo aproximado, foco geográfico, y capacidades clave (presupuestos, reportes, proyecciones, colaboración, educación financiera).
+> Criterios de comparación: público objetivo principal, complejidad de instalación/uso, costo aproximado, foco geográfico, y capacidades clave (detección, monitoreo, evidencia, colaboración comunitaria, escalamiento a autoridades).
 
 | Competidor | Enfoque | Fortalezas | Debilidades | Ventaja de ProtectX |
 |------------|---------|------------|-------------|----------------------|
-| **YNAB (You Need a Budget)** | Presupuesto personal con metodología “zero-based”. | Disciplina presupuestaria, comunidad activa, formación financiera. | Precio elevado, curva de aprendizaje, interfaz solo en inglés. | ProtectX ofrece ruta de aprendizaje integrada y planes más accesibles para LATAM, con onboarding guiado en español. |
-| **Simplifi by Quicken** | Presupuesto personal y flujo de caja futuro. | Plan de gasto personalizable, proyección de cashflow, fácil para principiantes. | Enfoque B2C; funciones empresariales limitadas. | ProtectX integra vistas personales y de microempresa en un mismo panel, con progresión de funcionalidades. |
-| **Monarch Money** | Gestión integral personal (presupuesto + inversiones). | Consolidación de cuentas, colaboración con asesores/familia, interfaz moderna. | Precio medio/alto; foco en EE. UU./Canadá. | ProtectX prioriza LATAM (monedas locales, categorías locales) y un plan de entrada económico. |
-| **Wallet (BudgetBakers)** | Control de gastos con IA de categorización. | Amplios reportes, sincronización bancaria, análisis guiado. | Límite de cuentas en plan gratis; menos foco educativo. | ProtectX combina registro sencillo con micro-lecciones y alertas educativas contextuales. |
-| **PocketGuard** | Presupuesto personal “safe-to-spend”. | Seguimiento de suscripciones, payoff de deudas, análisis de gasto. | Menor profundidad en metas/proyecciones avanzadas. | ProtectX añade metas con hitos, proyecciones y recomendaciones accionables para LATAM. |
-| **QuickBooks Online** | Contabilidad para pymes. | Suite robusta, estándar de mercado, ecosistema amplio. | Costo y complejidad altos para microempresas sin contable. | ProtectX ofrece “lo esencial” para pymes sin contable: flujo de caja, presupuestos y reportes simplificados. |
-| **Xero** | Contabilidad en la nube pymes. | Automatizaciones, integraciones, UX limpia. | Planes en USD; puede requerir asesor externo. | ProtectX prioriza simplicidad operativa y educación financiera para dueños no contables. |
-| **Zoho Books** | Contabilidad pymes y freelancers. | Plan gratuito limitado, buena relación precio/valor, integraciones Zoho. | Funciones avanzadas en planes superiores; configuración inicial. | ProtectX reduce fricción inicial (plantillas locales, categorías pre-cargadas) y guía paso a paso. |
-| **Alegra (LATAM)** | Contabilidad y facturación electrónica para pymes. | Cumplimiento local, factura electrónica, soporte 24/7. | Orientado a procesos contables/fiscales; curva de adopción. | ProtectX se enfoca en gestión financiera diaria (presupuestos, metas, flujo de caja) con menor complejidad y costo. |
+| **Verisure (Securitas Direct)** | Alarmas con monitoreo 24/7 para hogares y negocios. | Marca reconocida, instalación profesional, coordinación con serenazgo/PNP. | Contratos largos y costosos, poco flexible para juntas vecinales. | ProtectX es modular, con auto-instalación guiada, alertas inmediatas y funciones de comunidad. |
+| **ADT** | Sistemas de alarma y sensores para el hogar. | Experiencia global, soporte confiable, ecosistema robusto. | Menor integración comunitaria y adaptación local limitada. | ProtectX integra comunidad + hogares con costos escalables y protocolos de respuesta locales. |
+| **Securitas Perú (B2B)** | Seguridad corporativa (monitoreo, CCTV, control de acceso). | Portafolio amplio, servicios gestionados, SOC 24/7. | Costos elevados, pensado para empresas, no hogares. | ProtectX empaqueta lo esencial en una solución accesible para familias, juntas y autoridades locales. |
+| **Ring (Amazon)** | Cámaras/timbres inteligentes con app móvil. | Interfaz simple, ecosistema smart home, fácil adopción. | Sin vínculo con autoridades locales; soporte LATAM limitado. | ProtectX conecta sensores/cámaras a serenazgo/PNP y fomenta coordinación vecinal. |
+| **Hikvision / Dahua (kits IoT)** | Cámaras y alarmas con analítica perimetral. | Amplia oferta, disponibilidad en Perú, hardware sólido. | Requiere configuración técnica, apps dispersas, sin monitoreo nativo. | ProtectX centraliza sensores + cámaras en una sola app con escalamiento automático de alertas. |
+| **SimpliSafe** | Alarmas con autoservicio. | Instalación sencilla, app clara. | No disponible oficialmente en LATAM; sin coordinación comunitaria. | ProtectX es local-first, con comunidad y autoridades integradas en el flujo de respuesta. |
+| **Aseguradoras con servicios de alarma** | Paquetes de seguro + monitoreo. | Credibilidad, soporte integral. | Planes caros, poco flexibles, sin comunidad. | ProtectX es más accesible, escalable y diseñado para Lima Metropolitana. |
 
 **Resumen de ventaja competitiva de ProtectX**  
-- **Localización LATAM** (monedas, categorías y realidades de gasto locales).  
-- **Simplicidad + educación**: onboarding guiado, micro-lecciones y alertas educativas sin sobrecargar al usuario.  
-- **Escalabilidad**: un solo producto que crece desde uso personal hasta microempresa sin “cambio de plataforma”.  
-- **Costo accesible** con plan gratuito funcional y premium de bajo costo.  
+- **Localización en Lima/Perú**: rutas de alerta a serenazgo/PNP configuradas por distrito.  
+- **Modelo IoT modular**: escalable por sensores y niveles de suscripción (hogar → edificio → comunidad).  
+- **Colaboración comunitaria**: mapa de incidentes, chat vecinal, evidencia compartida en tiempo real.  
+- **Accesibilidad**: auto-instalación, costos escalables, interfaz simple y multisegmento.  
 
 ---
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-- **Posicionamiento**: “La forma más sencilla y en español para tomar control de tus finanzas personales y de tu microempresa”.  
-- **Go-to-market LATAM**: campañas con casos reales de estudiantes/emprendedores y pricing local.  
+- **Posicionamiento**: “La seguridad inteligente y comunitaria de Lima: detección, evidencia y coordinación con vecinos y autoridades en una sola app”.  
+- **Go-to-market**:  
+  - Pilotos en distritos con alta incidencia delictiva.  
+  - Alianzas con juntas vecinales, inmobiliarias y municipalidades.  
+  - Testimonios y campañas digitales segmentadas por zona.  
 - **Producto**:  
-  - Onboarding por objetivos (ahorro, control de gastos, flujo de caja de negocio).  
-  - Módulo de **metas** con hitos, recordatorios y proyecciones mensuales.  
-  - **Reportes claros**: salud financiera, cashflow, desviaciones vs. presupuesto y alertas.  
-  - **Importación fácil** (CSV/WhatsApp/Excel) para usuarios sin conexión bancaria abierta.  
-- **Educación integrada**: micro-contenidos dentro del flujo (p. ej., si el gasto en “delivery” excede 20%, se muestra tip y acción sugerida).  
-- **Alianzas**: con contadores/mentores locales y, a futuro, con fintechs de open finance y facturación para ampliar capacidades.  
-- **Experimentos de pricing**: plan gratis (básico), plan personal (metas/alertas) y plan negocio (reportes y multi-usuario).  
+  - **Hogares**: botón de pánico, alertas inmediatas, 2–4 sensores básicos.  
+  - **Juntas vecinales**: tablero comunitario, permisos por roles, reportes mensuales.  
+  - **Autoridades locales**: mapas de calor, evidencias en un clic, comunicación directa.  
+- **Educación y confianza**: protocolos de privacidad, cifrado de datos, SLA de notificaciones.  
+- **Modelo de ingresos**:  
+  - Suscripciones mensuales por niveles.  
+  - Kits iniciales de sensores/cámaras.  
+  - Servicios premium de monitoreo y soporte técnico.  
 
 ---
 
@@ -561,24 +563,32 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 
 **Segmentos objetivo**
 
-1. **Estudiantes y jóvenes profesionales** (18–30): buscan control de gastos, hábitos de ahorro y educación financiera.  
-2. **Emprendedores y microempresas** (1–10 colaboradores): requieren visibilidad del flujo de caja, presupuestos y reportes simples.
+1. **Personas/familias que viven solas o con temor por la inseguridad (hogares).**  
+2. **Juntas vecinales y administradores de edificios residenciales.**  
+3. **Autoridades locales y serenazgo.**
 
 **Preguntas por Segmento Objetivo**
 
-**A. Estudiantes y jóvenes profesionales**  
-1. ¿Cómo registras hoy tus gastos e ingresos y con qué frecuencia lo haces?  
-2. ¿Qué momento del mes se te hace más difícil para mantener tu presupuesto y por qué?  
-3. Si una app te enviara **solo dos** alertas útiles al día, ¿cuáles deberían ser?  
-4. ¿Qué te impediría usar una app de finanzas todos los días durante 30 días seguidos?  
-5. ¿Qué nivel de detalle necesitas en reportes/visualizaciones para sentir control real de tus finanzas?
+**A. Hogares**  
+1. ¿Qué incidentes de seguridad has experimentado en tu vivienda en los últimos 12 meses?  
+2. ¿Qué métodos de seguridad utilizas actualmente y qué limitaciones encuentras en ellos?  
+3. ¿Qué características te darían confianza para pagar por un sistema de seguridad inteligente?  
+4. ¿Qué tipo de alertas en el celular considerarías más útiles en caso de emergencia?  
+5. ¿Cuál sería un precio justo por un servicio que combine sensores, cámaras y alertas inmediatas?
 
-**B. Emprendedores y microempresas**  
-1. ¿Cómo controlas hoy el flujo de caja semanal y qué decisiones tomas a partir de él?  
-2. ¿Qué errores o retrabajos te genera el registro de gastos/ingresos (personas, procesos o herramientas)?  
-3. ¿Qué reporte mensual te gustaría ver en **una sola pantalla** para decidir compras, deudas o inversiones?  
-4. ¿Qué automatizarías primero: conciliación, facturas, alertas de sobre-gasto, o proyecciones? ¿Por qué?  
-5. ¿Cuál sería el “momento wow” que te haría pagar por una app como ProtectX?
+**B. Juntas vecinales / Administradores**  
+1. ¿Cómo se organizan actualmente ante incidentes en su comunidad?  
+2. ¿Qué problemas tienen al coordinar con serenazgo o PNP?  
+3. ¿Qué información necesitan en un tablero comunitario para decidir rápido?  
+4. ¿Qué nivel de personalización requieren en permisos de acceso a cámaras o alertas?  
+5. ¿Qué esquema de suscripción sería más viable: por unidad habitacional, por sensor común o por administración?
+
+**C. Autoridades locales / Serenazgo**  
+1. ¿Qué dificultades enfrentan hoy para responder a incidentes vecinales?  
+2. ¿Qué tipo de información en tiempo real les facilitaría priorizar emergencias?  
+3. ¿Cómo debería integrarse un sistema de seguridad comunitario con sus protocolos actuales?  
+4. ¿Qué formato de evidencia (video, fotos, reportes automáticos) sería más útil para agilizar su respuesta?  
+5. ¿Qué expectativas tendrían respecto a la colaboración ciudadana mediante apps como ProtectX?
 
 ---
 
@@ -586,19 +596,24 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 
 | Entrevistado | Segmento | Fecha | Hallazgos clave |
 |--------------|----------|-------|-----------------|
-| E-01 | Estudiante/Profesional joven | AAAA-MM-DD | [datos relevantes] |
-| E-02 | Emprendedor/Microempresario | AAAA-MM-DD | [datos relevantes] |
-| ... | ... | ... | ... |
+| INT-001 | Hogar | AAAA-MM-DD | [insights a registrar] |
+| INT-002 | Junta/Administrador | AAAA-MM-DD | [insights a registrar] |
+| INT-003 | Autoridad/Serenazgo | AAAA-MM-DD | [insights a registrar] |
+| … | … | … | … |
 
 ---
 
 ### 2.2.3. Análisis de entrevistas
 
-- **Patrones comunes:** [Identificar temas que aparezcan de manera recurrente en diferentes perfiles].  
-- **Diferencias por segmento:** [Señalar necesidades distintas entre estudiantes y emprendedores].  
-- **Conclusiones:** [Indicar las funcionalidades más prioritarias para cada segmento].  
+- **Patrones comunes:** [Ej. necesidad de evidencias rápidas; coordinación débil; percepción de inseguridad alta].  
+- **Diferencias por segmento:**  
+  - **Hogares:** buscan sencillez, bajo costo y botón de pánico inmediato.  
+  - **Juntas vecinales:** necesitan tableros comunitarios, permisos y reportes periódicos.  
+  - **Autoridades:** demandan información en tiempo real, formatos estandarizados y mapas de incidentes.  
+- **Conclusiones:** [Definir funcionalidades prioritarias del MVP hogar, comunidad y autoridad; validar supuestos de pago y confianza tecnológica].  
 
 ---
+
 
 
 ## 2.3. Needfinding
