@@ -295,15 +295,212 @@ El impacto económico de la inseguridad se refleja en pérdidas materiales por r
  🟢 **HOW MUCH (Cuánto)**   
  El costo se refleja en pérdidas materiales por robos, daños en viviendas y una carga financiera extra para las familias, además del impacto social derivado del miedo y la desconfianza.
 
-### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements  
-#### 1.2.2.2. Lean UX Assumptions  
-- Business Outcomes  
-- User Outcomes  
-#### 1.2.2.3. Lean UX Hypothesis Statements  
+#### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+Los ciudadanos preocupados por la inseguridad en Lima y los profesionales encargados de la protección vecinal enfrentan dificultades para acceder a soluciones de seguridad que sean realmente efectivas, rápidas y adaptadas a sus necesidades particulares.
+
+Hemos observado que muchos usuarios sienten que los sistemas tradicionales (rejas, alarmas convencionales, rondas vecinales) no ofrecen una respuesta inmediata ni una integración tecnológica suficiente, lo que genera desconfianza y baja percepción de seguridad en sus hogares.
+
+¿Cómo podríamos diseñar un sistema de alerta y monitoreo inteligente que incremente la sensación de seguridad y permita una respuesta más rápida ante incidentes?
+
+#### 1.2.2.2. Lean UX Assumptions
+
+**Assumptions Worksheet**
+
+### Supuestos del Negocio – Sentinel
+
+1. **Creo que mis clientes tienen la necesidad de:**  
+   Contar con un sistema de seguridad inteligente que brinde alertas inmediatas y centralice la información de sensores, cámaras y alarmas, permitiendo una respuesta rápida ante emergencias.
+
+2. **Estas necesidades pueden resolverse con:**  
+   Sentinel, una solución IoT que integra sensores, cámaras y alarmas inteligentes, gestionadas desde una aplicación móvil, conectada directamente con entidades policiales y vecinos.
+
+3. **Mis clientes iniciales son (o serán):**  
+   - Personas que viven solas o en zonas de alta inseguridad.
+   - Familias preocupadas por la protección de su vivienda.
+   - Juntas vecinales y administradores de edificios residenciales.
+
+4. **El principal valor que un cliente quiere obtener de mi servicio es:**  
+   Seguridad y tranquilidad, gracias a la capacidad de recibir alertas inmediatas y monitorear su hogar en tiempo real.  
+   **También pueden obtener estos beneficios adicionales:**  
+   Facilidad de uso, integración con autoridades, historial de eventos y personalización de niveles de protección.
+
+5. **Adquiriré la mayoría de mis clientes a través de:**  
+   - Recomendaciones de boca a boca en comunidades y vecindarios.
+   - Alianzas con inmobiliarias y juntas vecinales.
+   - Campañas digitales enfocadas en zonas de alta incidencia delictiva.
+
+6. **Ganaré dinero mediante:**  
+   - Suscripciones mensuales por niveles de servicio.
+   - Venta de kits de sensores y cámaras inteligentes.
+   - Servicios premium de monitoreo y soporte técnico.
+
+7. **Mi principal competencia en el mercado será:**  
+   Empresas de alarmas tradicionales y sistemas de cámaras convencionales.  
+   **Superaremos a la competencia debido a:**  
+   Nuestra integración IoT, respuesta automatizada y conexión directa con autoridades.
+
+8. **El mayor riesgo de mi producto es:**  
+   Que los usuarios no confíen en la efectividad del sistema o no perciban una mejora real en la seguridad.  
+   **Lo resolveremos mediante:**  
+   Pilotos en comunidades, testimonios de usuarios y mejoras continuas basadas en feedback.
+
+9. **Otras suposiciones que, si se demuestran falsas, harán que nuestro negocio fracase:**  
+   - Que los usuarios estén dispuestos a pagar por un sistema de seguridad inteligente.
+   - Que las autoridades colaboren en la integración de alertas.
+   - Que la tecnología funcione de manera confiable en diferentes entornos urbanos.
+
+### Supuestos del Cliente – NutriSmart
+
+1. **¿Quién es el cliente?**  
+   Personas y familias que buscan mejorar la seguridad de su vivienda, especialmente quienes viven en zonas de alta incidencia delictiva, así como juntas vecinales y administradores de edificios.
+
+2. **¿Dónde encaja nuestro producto en su vida?**  
+   En la rutina diaria: al salir o llegar a casa, al monitorear la vivienda desde el móvil, o ante cualquier evento sospechoso detectado por los sensores.
+
+3. **¿Qué problemas soluciona nuestro producto?**  
+   - Falta de respuesta inmediata ante emergencias.
+   - Dificultad para monitorear el hogar en tiempo real.
+   - Limitada integración entre vecinos y autoridades.
+   - Ineficiencia de sistemas tradicionales de seguridad.
+
+4. **¿Cuándo y cómo se utiliza nuestro producto?**  
+   - Uso diario: monitoreo desde la app, recepción de alertas.
+   - En situaciones de emergencia: activación automática de alarmas y notificaciones.
+   - Acceso desde dispositivos móviles y web.
+
+5. **¿Qué características son importantes?**  
+   - Alertas inmediatas y automáticas.
+   - Integración de sensores, cámaras y alarmas.
+   - Facilidad de uso y configuración.
+   - Historial de eventos y personalización de notificaciones.
+
+6. **¿Cómo debe verse y comportarse nuestro producto?**  
+   - Interfaz intuitiva y moderna.
+   - Acceso rápido a información crítica.
+   - Notificaciones claras y en tiempo real.
+   - Adaptable a distintos perfiles de usuario.
+
+**Lean & Hypothesis - Driven Development**
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+<!-- Segmento 1: Personas que viven solas o familias preocupadas por la seguridad -->
+**1ra Hipótesis**  
+**Creemos que** ofrecer alertas automáticas e inmediatas a través de la app Sentinel aumentará la percepción de seguridad de los usuarios.  
+**Sabremos que estamos bien cuando** los usuarios reporten sentirse más seguros y se reduzca el tiempo de respuesta ante incidentes en al menos un 30% durante pruebas piloto.
+
+---
+
+**2da Hipótesis**  
+**Creemos que** permitir la personalización de niveles de protección y notificaciones incrementará la satisfacción y el uso continuo del sistema.  
+**Sabremos que esto es cierto cuando** más del 60% de los usuarios ajusten sus configuraciones y mantengan el servicio activo después del primer mes.
+
+---
+
+**3ra Hipótesis**  
+**Creemos que** integrar un historial de eventos accesible desde la app aumentará la confianza y el sentido de control de los usuarios.  
+**Sabremos que esto es cierto cuando** al menos el 70% de los usuarios consulten el historial al menos una vez por semana.
+
+---
+
+<!-- Segmento 2: Juntas vecinales y administradores de edificios residenciales -->
+**4ta Hipótesis**  
+**Creemos que** la función de alertas comunitarias permitirá una mejor coordinación entre vecinos ante emergencias.  
+**Sabremos que esto es cierto cuando** al menos el 50% de las alertas sean respondidas por más de un usuario de la comunidad.
+
+---
+
+**5ta Hipótesis**  
+**Creemos que** ofrecer reportes de seguridad y estadísticas mensuales facilitará la toma de decisiones en la gestión vecinal.  
+**Sabremos que esto es cierto cuando** los administradores descarguen o consulten los reportes al menos una vez al mes.
+
+---
+
+**6ta Hipótesis**  
+**Creemos que** la integración de chat o foros internos fortalecerá la colaboración y comunicación entre vecinos.  
+**Sabremos que esto es cierto cuando** se registre un aumento del 40% en la interacción entre usuarios dentro de la plataforma.
+
+---
+
+<!-- Segmento 3: Autoridades locales y serenazgo -->
+**7ma Hipótesis**  
+**Creemos que** la recepción de alertas en tiempo real permitirá a las autoridades responder más rápido a incidentes reportados por Sentinel.  
+**Sabremos que esto es cierto cuando** el tiempo promedio de respuesta disminuya en al menos un 25% en zonas piloto.
+
+---
+
+**8va Hipótesis**  
+**Creemos que** el acceso a mapas de calor y reportes de incidentes ayudará a las autoridades a optimizar la vigilancia y patrullaje.  
+**Sabremos que esto es cierto cuando** las rutas de patrullaje se ajusten en función de los datos proporcionados por Sentinel.
+
+---
+
+**9na Hipótesis**  
+**Creemos que** la posibilidad de enviar mensajes o recomendaciones directas a los usuarios desde la plataforma mejorará la percepción de cercanía y apoyo de las autoridades.  
+**Sabremos que esto es cierto cuando** al menos el 60% de los usuarios valore positivamente la comunicación recibida en encuestas de satisfacción.
+
+---
 #### 1.2.2.4. Lean UX Canvas  
 ---
-## 1.3. Segmentos objetivo  
+### 1.3. Segmentos Objetivos
+
+#### Segmento Objetivo 1: Personas que viven solas o familias preocupadas por la seguridad
+
+**Aspectos Demográficos:**
+- **Sexo:** Masculino y femenino
+- **Edades:** 25 a 65 años
+- **Nivel Socioeconómico:** Clases B, C y D (media, media-baja y baja)
+- **Ocupación:** Trabajadores dependientes, independientes, amas de casa, adultos mayores
+- **Ingresos:** Ingresos medios o bajos, con preocupación por proteger su patrimonio
+
+**Aspectos Geográficos:**
+- **Ubicación:** Lima Metropolitana y zonas urbanas/periurbanas con alta incidencia delictiva
+- **Acceso a tecnología:** Uso frecuente de smartphones y acceso a internet móvil
+
+**Aspectos Psicográficos:**
+- **Motivaciones:** Proteger a su familia y bienes, reducir el miedo y la ansiedad por la inseguridad
+- **Estilo de vida:** Hogareño, con preocupación constante por la seguridad del entorno
+- **Preocupaciones:** Robos, asaltos, respuesta lenta de autoridades, falta de soluciones tecnológicas accesibles
+- **Adaptación a la tecnología:** Disposición a usar apps móviles si son fáciles y útiles
+
+---
+
+#### Segmento Objetivo 2: Juntas vecinales y administradores de edificios residenciales
+
+**Aspectos Demográficos:**
+- **Sexo:** Masculino y femenino
+- **Edades:** 30 a 65 años
+- **Nivel Socioeconómico:** Clases B y C (media y media-baja)
+- **Ocupación:** Líderes vecinales, administradores de edificios, representantes comunales
+
+**Aspectos Geográficos:**
+- **Ubicación:** Urbanizaciones, condominios y edificios en zonas con problemas de seguridad
+- **Acceso a tecnología:** Uso de computadoras y smartphones para gestión y comunicación
+
+**Aspectos Psicográficos:**
+- **Motivaciones:** Mejorar la seguridad colectiva, fortalecer la colaboración entre vecinos y con autoridades
+- **Estilo de vida:** Proactivos en la gestión comunitaria, buscan soluciones integrales y tecnológicas
+- **Preocupaciones:** Coordinación eficiente ante emergencias, falta de herramientas para monitoreo y alerta comunitaria
+- **Adaptación a la tecnología:** Alta disposición a implementar soluciones digitales que faciliten la gestión y comunicación
+
+---
+
+#### Segmento Objetivo 3: Autoridades locales y serenazgo
+
+**Aspectos Demográficos:**
+- **Sexo:** Masculino y femenino
+- **Edades:** 25 a 60 años
+- **Ocupación:** Personal de serenazgo, policías municipales, funcionarios de seguridad ciudadana
+
+**Aspectos Geográficos:**
+- **Ubicación:** Municipios y distritos de Lima y alrededores
+
+**Aspectos Psicográficos:**
+- **Motivaciones:** Mejorar la capacidad de respuesta y monitoreo, optimizar recursos y coordinación con la comunidad
+- **Preocupaciones:** Falta de información en tiempo real, dificultad para priorizar emergencias, baja colaboración vecinal
+- **Adaptación a la tecnología:** Interés en herramientas que automaticen alertas y centralicen información para la toma de decisiones
 
 ---
 
