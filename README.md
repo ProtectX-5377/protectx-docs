@@ -173,7 +173,7 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
    <div align='center'>
      
-   <img src="resources/members/daniel.png" alt="imagen Daniel" width="100" align='right'>
+   <img src="resources/Cap-1/Members/daniel.png" alt="imagen Daniel" width="100" align='right'>
 
    ~~~txt
    Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el 6to ciclo de la carrera.
@@ -194,7 +194,7 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
    <div align='center'>
      
-   <img src="resources/members/[name].png" alt="imagen [name]" width="100" align='right'>
+   <img src="esources/Cap-1/Members/[name].png" alt="imagen [name]" width="100" align='right'>
 
    ~~~txt
 [descripcion]
@@ -211,7 +211,7 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
    <div align='center'>
      
-   <img src="resources/members/[name].png" alt="imagen [name]" width="100" align='right'>
+   <img src="resources/Cap-1/Members/.png" alt="imagen [name]" width="100" align='right'>
 
    ~~~txt
 [descripcion]
@@ -227,7 +227,7 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
    <div align='center'>
      
-   <img src="resources/members/[name].png" alt="imagen [name]" width="100" align='right'>
+   <img src="resources/Cap-1/Members/[name].png" alt="imagen [name]" width="100" align='right'>
 
    ~~~txt
 [descripcion]
