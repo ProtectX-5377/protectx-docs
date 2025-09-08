@@ -18,7 +18,7 @@
 
 **Startup:** ProtectX
 
-**Producto:** [Nombre del Producto]  
+**Producto:** Sentinel  
 
 <div align='left'>  
 
@@ -28,7 +28,7 @@ static string[] Integrantes() {
         "🧑‍💻 Ruiz Huisa, Daniel Elias - 202210764",
         "🧑‍💻 Villugas Jeronimo , Liam Anderson - 202211634",
         "👨‍💻 Quiroz Zambrano, Fabrizio Javier - 202213406",
-        "👩‍💻 Apellidos, Nombres - Código",       
+        "👩‍💻 Hermoza Quispe, Jude Alessandro - 202318220",       
         "👩‍💻 Apellidos, Nombres - Código", 
     };
 }
@@ -189,16 +189,19 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
    <div align='center'>
    <!--TODO: integrante 2 -->
-  > 🧑‍💻 <strong>[Complete Name]</strong> 
+  > 🧑‍💻 <strong>Jude Alessandro Hermoza Quispe</strong> 
    
 
    <div align='center'>
      
-   <img src="esources/Cap-1/Members/[name].png" alt="imagen [name]" width="100" align='right'>
+   <img src="resources/Cap-1/Members/jude.png" alt="imagen Jude" width="100" align='right'>
 
    ~~~txt
-[descripcion]
+   Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el 5to ciclo de la carrera.
 
+   Me apasiona el desarrollo fullstack y tengo experiencia trabajando con tecnologías como Python, SQL Server, MongoDB y TypeScript. Disfruto aprender nuevas herramientas y lenguajes que me permitan aportar soluciones innovadoras en los proyectos en los que participo.
+
+   Me considero una persona responsable, proactiva y con facilidad para adaptarme a los retos del trabajo en equipo. Aspiro a seguir creciendo profesionalmente y contribuir al desarrollo de software útil y de impacto social.
    ~~~
 
    </div>
