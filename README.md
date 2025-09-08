@@ -4,7 +4,7 @@
 
 # Informe de Trabajo Final 📙
 
-<img src="./resources/Banner-UPC.png" alt="Banner UPC">
+<img src="./resources/Cap-1/Banner-UPC.png" alt="Banner UPC">
 
 ### Universidad Peruana de Ciencias Aplicadas ♨️
 
@@ -70,17 +70,22 @@ Agosto del 2025 🗓️
   - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
       - [5W’s + 2H’s](#5ws--2hs)
-    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2. Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [Supuestos del Negocio – Sentinel](#supuestos-del-negocio--sentinel)
+    - [Supuestos del Cliente – NutriSmart](#supuestos-del-cliente--nutrismart)
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+    - [1.3. Segmentos Objetivos](#13-segmentos-objetivos)
+      - [Segmento Objetivo 1: Personas que viven solas o familias preocupadas por la seguridad](#segmento-objetivo-1-personas-que-viven-solas-o-familias-preocupadas-por-la-seguridad)
+      - [Segmento Objetivo 2: Juntas vecinales y administradores de edificios residenciales](#segmento-objetivo-2-juntas-vecinales-y-administradores-de-edificios-residenciales)
+      - [Segmento Objetivo 3: Autoridades locales y serenazgo](#segmento-objetivo-3-autoridades-locales-y-serenazgo)
 - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas 💼](#22-entrevistas-)
+  - [2.2. Entrevistas](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
@@ -173,7 +178,7 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
    <div align='center'>
      
-   <img src="resources/Cap-1/Members/daniel.png" alt="imagen Daniel" width="100" align='right'>
+   <img src="resources/Cap-1/Members/daniel.jpg" alt="imagen Daniel" width="100" align='right'>
 
    ~~~txt
    Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el 6to ciclo de la carrera.
