@@ -214,16 +214,19 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
     <div align='center'>
    <!--TODO: integrante 3 -->
-  > 🧑‍💻 <strong>[Complete Name]</strong> 
+  > 🧑‍💻 <strong>[Liam Anderson Villugas Jeronimo]</strong> 
    
 
    <div align='center'>
      
-   <img src="resources/Cap-1/Members/.png" alt="imagen [name]" width="100" align='right'>
+   <img src="resources/Cap-1/Members/.png" alt="imagen Liam" width="100" align='right'>
 
    ~~~txt
-[descripcion]
+   Soy Estudiante de Ingienieria de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), Estoy cursando actualmente el 6to ciclo de la carrera.
 
+   Me atrae mucho el desarrollo de aplicaciones y el uso de las bases de datos tanto SQL como NoSQL. Cuento con conocimientos en lenguajes en python, Aprendiendo C# y en cuanto a las bases de datos tengo conocimientos de SQLite, SQLserver Y MongoDB.
+
+   Me considero una persona en Aprendizaje constante e intento mantener la tranquilidad bajo prension al trabajar.
    ~~~
 
    </div>
@@ -622,8 +625,12 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 ### 2.3.2. User Task Matrix  
 ### 2.3.3. User Journey Mapping  
 ### 2.3.4. Empathy Mapping  
-### 2.3.5. As-is Scenario Mapping  
----
+ ### 2.3.5. As-is Scenario Mapping  
+
+<img src="./resources/Cap-1/AsisCasa.png" alt="Asis casa">
+
+<img src="./resources/Cap-1/AsisJunta.png" alt="Asis casa">
+
 ## 2.4. Ubiquitous Language  
 
 ---
@@ -631,6 +638,11 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 # Capítulo III: Requirements Specification  
 
 ## 3.1. To-Be Scenario Mapping  
+
+<img src="./resources/Cap-1/TobeCasa.png" alt="To-be Casa">
+
+<img src="./resources/Cap-1/TobeJunta.png" alt="To-be Junta vecinal">
+
 ## 3.2. User Stories  
 ## 3.3. Impact Mapping  
 ## 3.4. Product Backlog  
