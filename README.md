@@ -594,11 +594,12 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 
 ### 2.2.2. Registro de entrevistas
 
-| Entrevistado | Segmento | Fecha | Hallazgos clave |
-|--------------|----------|-------|-----------------|
-| INT-001 | Hogar | AAAA-MM-DD | [insights a registrar] |
-| INT-002 | Junta/Administrador | AAAA-MM-DD | [insights a registrar] |
-| INT-003 | Autoridad/Serenazgo | AAAA-MM-DD | [insights a registrar] |
+| Entrevistado | Segmento | Fecha       | Video |
+|--------------|----------|-------------|-------|
+| INT-001      | Hogar    | 08/09/2025  | [![Ver video](resources/Cap-1/SSInterview1)](https://drive.google.com/file/d/1ULhjDtqXoQH0KRz3L7NDmq6DvCik1M0b/view?usp=sharing) |
+| INT-002      | Junta/Administrador | AAAA-MM-DD | [![Ver video]()](https://drive.google.com) |
+| INT-003      | Autoridad/Serenazgo | AAAA-MM-DD | [![Ver video]()](https://drive.google.com) |
+
 | … | … | … | … |
 
 ---
