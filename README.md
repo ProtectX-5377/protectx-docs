@@ -127,6 +127,7 @@ Agosto del 2025 🗓️
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
+    - [4.7.2. Class Dictionary](#472-class-dictionary-1)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -178,7 +179,7 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
    <div align='center'>
      
-   <img src="resources/Cap-1/Members/daniel.jpg" alt="imagen Daniel" width="100" align='right'>
+   <img src="resources/Cap-1/Members/Daniel.jpg" alt="imagen Daniel" width="100" align='right'>
 
    ~~~txt
    Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el 6to ciclo de la carrera.
@@ -695,8 +696,30 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 
 ---
 ## 4.7. Software Object-Oriented Design  
-### 4.7.1. Class Diagrams  
+### 4.7.1. Class Diagrams
+
+<img src="./resources/Cap-4/Class_Diagram/ProtectX-ClassDiagram.png">
+
+### 4.7.2. Class Dictionary 
+
 ### 4.7.2. Class Dictionary  
+
+| Clase                  | Propósito                              | Atributos                                   | Métodos                                                                 |
+|-------------------------|----------------------------------------|---------------------------------------------|-------------------------------------------------------------------------|
+| Usuario                 | Representa a la persona del sistema    | `datosUsuario`                              | `getDatos()`                                                            |
+| Credencial              | Maneja datos de acceso y seguridad     | `user`, `pass`, `token`                     | `encrypt()`, `get()`, `set()`                                          |
+| Sesion                  | Gestiona la sesión activa del usuario  | `credencial`, `controladores`, `notificaciones` | `showUserData()`, `showSensor()`, `updateNotification()`, `updateData()`, `triggerEvent()`, `setAlarm()` |
+| Sensor                  | Representa un dispositivo de medición | `type`, `name`, `data`, `time`, `position`  | `read()`, `readings()`                                                 |
+| ControladorSensor       | Administra múltiples sensores          | `sensor[array]`                             | `new()`, `delete()`, `show()`, `update()`                              |
+| Alarma                  | Representa un dispositivo de alerta    | `type`, `name`, `data`, `time`, `position`  | `read()`, `readings()`                                                 |
+| ControladorAlarma       | Administra múltiples alarmas           | `alarma[array]`                             | `new()`, `delete()`, `show()`, `update()`                              |
+| Notificacion            | Maneja mensajes del sistema            | `mensaje`, `time`                           | `read()`, `getTime()`                                                  |
+| ControladorNotificacion | Administra notificaciones en cola      | `notif[cola]`                               | `new()`, `delete()`, `show()`, `update()`                              |
+| Evento                  | Representa sucesos del sistema         | `descripcion`, `dato`, `time`               | `makeMessage()`, `getDato()`, `getTime()`                              |
+| ControladorEvento       | Administra eventos en pila (stack)     | `evento[stack]`                             | `new()`, `delete()`, `show()`, `update()`, `email()`, `callPolice()`, `firefighters()` |
+
+
+
 ---
 ## 4.8. Database Design  
 ### 4.8.1. Database Diagram  
