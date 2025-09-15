@@ -81,7 +81,7 @@ Agosto del 2025 🗓️
       - [Segmento Objetivo 1: Personas que viven solas o familias preocupadas por la seguridad](#segmento-objetivo-1-personas-que-viven-solas-o-familias-preocupadas-por-la-seguridad)
       - [Segmento Objetivo 2: Juntas vecinales y administradores de edificios residenciales](#segmento-objetivo-2-juntas-vecinales-y-administradores-de-edificios-residenciales)
       - [Segmento Objetivo 3: Autoridades locales y serenazgo](#segmento-objetivo-3-autoridades-locales-y-serenazgo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+- [Capítulo II: Requirements Elicitation \& Analysis — ProtectX](#capítulo-ii-requirements-elicitation--analysis--protectx)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -675,9 +675,24 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 ## 4.5. Web Applications Prototyping  
 ---
 ## 4.6. Domain-Driven Software Architecture  
-### 4.6.1. Software Architecture Context Diagram  
-### 4.6.2. Software Architecture Container Diagrams  
+### 4.6.1. Software Architecture Context Diagram
+
+<img src="./resources/Cap-4/Domain_Driven_Software_architecture/Context_Diagram/ProtectX-SystemContext-001.png" alt="To-be Casa">
+
+<img src="./resources/Cap-4/Domain_Driven_Software_architecture/Context_Diagram/ProtectX-SystemContext-001-key.png" alt="To-be Casa">
+
+### 4.6.2. Software Architecture Container Diagrams 
+
+<img src="./resources/Cap-4/Domain_Driven_Software_architecture/Container_Diagram/ProtectX-Container-001.png" alt="To-be Casa">
+
+<img src="./resources/Cap-4/Domain_Driven_Software_architecture/Container_Diagram/ProtectX-Container-001-key.png" alt="To-be Casa">
+
 ### 4.6.3. Software Architecture Components Diagrams  
+
+<img src="./resources/Cap-4/Domain_Driven_Software_architecture/Component_Diagram/ProtectX-Component-001.png" alt="To-be Casa">
+
+<img src="./resources/Cap-4/Domain_Driven_Software_architecture/Component_Diagram/ProtectX-Component-001-key.png" alt="To-be Casa">
+
 ---
 ## 4.7. Software Object-Oriented Design  
 ### 4.7.1. Class Diagrams  
