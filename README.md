@@ -625,6 +625,21 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 ### 2.3.1. User Personas  
 ### 2.3.2. User Task Matrix  
 ### 2.3.3. User Journey Mapping  
+
+Segmento Objetivo 1: **Hogares**
+
+<img src="./resources/Cap-2/Journey%20map-Sebastian.png" alt="Sebastian" height=500/>
+
+Se puede evidenciar como es el proceso de selección de Sebastian al momento de elegir un sistema de seguridad para su hogar, 
+por el momento se encuentra frustrado pues los sistemas de seguridad que tenía son obsoletos.
+
+Segmento Objetivo 2: **Juntas vecinales**
+
+<img src="./resources/Cap-2/Journey%20map-vecino.png" alt="Sebastian" height=500/>
+
+Se puede ver como los vecinos sienten que las opciones que encuentran de sistemas de seguridad, 
+no son 100% confiables y temen ser estafados.
+
 ### 2.3.4. Empathy Mapping  
  ### 2.3.5. As-is Scenario Mapping  
 
