@@ -623,6 +623,17 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas  
+
+A continuación presentamos los user personas identificadas basándonos en las entrevistas realizadas para ambos segmentos objetivos. Estos user personas nos ayudarán a entender mejor las necesidades y expectativas de nuestros futuros usuarios.
+
+Segmento 1: **Hogares**
+
+<img src="resources/Cap-2/User-sebastian.png" alt="Entrevista 1" width="500">
+
+Segmento 2: **Juntas vecinales**
+
+<img src="resources/Cap-2/User-cristhian.png" alt="Entrevista 2" width="500">
+
 ### 2.3.2. User Task Matrix  
 ### 2.3.3. User Journey Mapping  
 
