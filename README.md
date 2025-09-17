@@ -635,6 +635,81 @@ Segmento 2: **Juntas vecinales**
 <img src="resources/Cap-2/User-cristhian.png" alt="Entrevista 2" width="500">
 
 ### 2.3.2. User Task Matrix  
+
+<table>
+  <tr>
+    <th rowspan="2" valign="top"><b><i>User Task Matrix</i></b></th>
+    <th colspan="2" valign="top"><b><i>Cristian (Administrador vecinal)</i></b></th>
+    <th colspan="2" valign="top"><b><i>Sebastián (Residente joven)</i></b></th>
+  </tr>
+  <tr>
+    <td valign="top"><b><i>Frecuencia</i></b></td>
+    <td valign="top"><b><i>Importancia</i></b></td>
+    <td valign="top"><b><i>Frecuencia</i></b></td>
+    <td valign="top"><b><i>Importancia</i></b></td>
+  </tr>
+  <tr>
+    <td>Coordinar con serenazgo o PNP ante incidentes</td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Reunir y organizar a vecinos para temas de seguridad</td>
+    <td><b><i>A menudo</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Nunca</i></b></td>
+    <td><b><i>Baja</i></b></td>
+  </tr>
+  <tr>
+    <td>Reportar emergencias en grupos vecinales (WhatsApp)</td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>A menudo</i></b></td>
+    <td><b><i>Media</i></b></td>
+  </tr>
+  <tr>
+    <td>Supervisar o revisar sistemas de cámaras comunitarias</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Nunca</i></b></td>
+    <td><b><i>Baja</i></b></td>
+  </tr>
+  <tr>
+    <td>Verificar y proteger la vivienda propia</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Recibir notificaciones inmediatas de alertas de intrusión</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+</table>
+
+**Tareas con mayor frecuencia e importancia**
+
+Cristian: destacan la coordinación con serenazgo o PNP, la organización de vecinos y el reporte de emergencias en grupos comunitarios, todas catalogadas como frecuentes y de alta importancia. Esto refleja su rol orientado a la gestión colectiva y liderazgo comunitario.
+
+Sebastián: sobresalen la verificación y protección de su vivienda y el recibo de notificaciones inmediatas de alertas, que realiza siempre y considera altamente importantes. Esto evidencia su enfoque en la seguridad personal y doméstica.
+
+**Diferencias principales**
+
+Cristian prioriza la coordinación comunitaria y comunicación colectiva, mientras que Sebastián se centra en la protección individual.
+
+Sebastián siempre verifica y protege su vivienda, mientras que Cristian solo lo hace a veces, ya que su preocupación está más en lo comunitario que en lo personal.
+
+**Coincidencias**
+
+Ambos consideran de alta importancia recibir notificaciones inmediatas de alertas de intrusión, aunque la frecuencia es mayor en Sebastián.
+
+Tanto Cristian como Sebastián ven esencial contar con mecanismos de respuesta ante emergencias, ya sea de forma colectiva (Cristian) o personal (Sebastián).
+
 ### 2.3.3. User Journey Mapping  
 
 Segmento Objetivo 1: **Hogares**
