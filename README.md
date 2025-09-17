@@ -726,8 +726,17 @@ Segmento Objetivo 2: **Juntas vecinales**
 Se puede ver como los vecinos sienten que las opciones que encuentran de sistemas de seguridad, 
 no son 100% confiables y temen ser estafados.
 
-### 2.3.4. Empathy Mapping  
- ### 2.3.5. As-is Scenario Mapping  
+### 2.3.4. Empathy Mapping 
+
+Segmento Objetivo 1: **Hogares**
+
+<img src="./resources/Cap-2/Empathy-Sebastian.png" alt="Sebastian" height=500/>
+
+Segmento Objetivo 2: **Juntas vecinales**
+
+<img src="./resources/Cap-2/Empathy-Cristhian.png" alt="Cristhian" height=500/>
+
+### 2.3.5. As-is Scenario Mapping  
 
 <img src="./resources/Cap-1/AsisCasa.png" alt="Asis casa">
 
