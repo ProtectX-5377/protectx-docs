@@ -649,7 +649,20 @@ no son 100% confiables y temen ser estafados.
 
 ## 2.4. Ubiquitous Language  
 
----
+Sensor IoT : Dispositivo conectado  que recopila datos de la vivienda y los transmite al sistema.
+
+Suscriptor : Persona registrada que contrata un plan de suscripción.
+
+Alerta Inmediata : Notificación en tiempo real enviada al usuario y a la entidad policial más cercana a través de una aplicación.
+
+Cámara Inteligente: Dispositivo de video con detección avanzada que transmite imágenes en vivo a la app y respalda evidencias de seguridad.
+
+Framework:Estructura de desarrollo que define buenas prácticas y provee herramientas para construir software escalable; en ProtectX se usa Spring Boot para el backend y Angular para el frontend.
+
+Angular: Framework de desarrollo frontend en TypeScript usado para construir la aplicación ProtectX, ofreciendo modularidad mediante componentes y servicios.
+
+IDE: Entorno de Desarrollo Integrado
+
 
 # Capítulo III: Requirements Specification  
 
