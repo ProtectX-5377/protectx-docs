@@ -29,7 +29,7 @@ static string[] Integrantes() {
         "🧑‍💻 Villugas Jeronimo , Liam Anderson - 202211634",
         "👨‍💻 Quiroz Zambrano, Fabrizio Javier - 202213406",
         "👩‍💻 Hermoza Quispe, Jude Alessandro - 202318220",       
-        "👩‍💻 Apellidos, Nombres - Código", 
+        "👩‍💻 De La Cruz Villarreal, Carlos Alejandro - 20211c036, 
     };
 }
 ~~~
@@ -234,15 +234,18 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
       <div align='center'>
    <!--TODO: integrante 4 -->
-  > 🧑‍💻 <strong>[Complete Name]</strong> 
-   
+  > 🧑‍💻 <strong>[Carlos Alejandro De La Cruz Villarreal]</strong> 
 
    <div align='center'>
      
-   <img src="resources/Cap-1/Members/[name].png" alt="imagen [name]" width="100" align='right'>
+   <img src="resources/Cap-1/Members/CarlosDeLaCruz.png" alt="imagen [name]" width="100" align='right'>
 
    ~~~txt
-[descripcion]
+Me llamo Carlos soy un estudiante de Ingeniería de Software, tengo 22 años y vivo en Lima.
+Mis pasatiempos son hacer deporte, jugar videojuegos y escuchar música. 
+Me gusta trabajar en equipo porque de esta manera todos los integrantes podemos dar nuestro 
+punto de vista e ideas para poder lograr el objetivo del curso. Además, para este curso me 
+comprometo a ayudar en todo lo posible para la elaboración y desarrollo del trabajo
 
    ~~~
 
