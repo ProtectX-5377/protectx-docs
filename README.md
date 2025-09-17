@@ -598,11 +598,11 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 
 ### 2.2.2. Registro de entrevistas
 
-| Entrevistado | Segmento | Fecha       | Video |
-|--------------|----------|-------------|-------|
-| INT-001      | Hogar    | 08/09/2025  | [![Ver video](resources/Cap-1/SSInterview1)](https://drive.google.com/file/d/1ULhjDtqXoQH0KRz3L7NDmq6DvCik1M0b/view?usp=sharing) |
-| INT-002      | Junta/Administrador | AAAA-MM-DD | [![Ver video]()](https://drive.google.com) |
-| INT-003      | Autoridad/Serenazgo | AAAA-MM-DD | [![Ver video]()](https://drive.google.com) |
+| Entrevistado | Segmento | Fecha      | Video                                                                                                                            |
+|--------------|----------|------------|----------------------------------------------------------------------------------------------------------------------------------|
+| INT-001      | Hogar    | 08/09/2025 | [![Ver video](resources/Cap-1/SSInterview1)](https://drive.google.com/file/d/1ULhjDtqXoQH0KRz3L7NDmq6DvCik1M0b/view?usp=sharing) |
+| INT-002      | Junta/Administrador | 16-09-2025 | [![Ver video](resources/Cap-2/Christian.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EeioWrabT_9Hl0h29N9C2bUBo3IXoQKWewVzcleUHOOlxA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aVkcFt)                                                          |
+| INT-003      | Autoridad/Serenazgo | AAAA-MM-DD | [![Ver video]()](https://drive.google.com)                                                                                       |
 
 | … | … | … | … |
 
