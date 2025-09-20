@@ -220,7 +220,7 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
    <div align='center'>
      
-   <img src="resources/Cap-1/Members/.png" alt="imagen Liam" width="100" align='right'>
+   <img src="resources/Cap-1/Members/Fotoliam.jpg" alt="imagen Liam" width="100" align='right'>
 
    ~~~txt
    Soy Estudiante de Ingienieria de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), Estoy cursando actualmente el 6to ciclo de la carrera.
