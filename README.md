@@ -1117,11 +1117,50 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 Enlace para acceder al [landing page]()
 ---
 
-## 5.2. Landing Page, Services & Applications Implementation  
-### 5.2.X. Sprint n  
-#### 5.2.X.1. Sprint Planning n  
-#### 5.2.X.2. Aspect Leaders and Collaborators  
-#### 5.2.X.3. Sprint Backlog n  
+## 5.2. Landing Page, Services & Applications Implementation
+
+Esta sección explica la metodología de Sprints implementada durante el desarrollo del proyecto, evidenciando el proceso iterativo de implementación, pruebas, documentación y
+despliegue del Landing Page, Web Services y Frontend Web Applications. Una vez definido el Product Backlog, el equipo organizó el trabajo en sprints semanales de una duración fija,
+donde cada ciclo se centró en entregar un conjunto mínimo viable de funcionalidades priorizadas. Cada Sprint incluyó planificación diaria, ejecución colaborativa mediante Discord para comunicación ágil,
+revisión de avances y retroalimentación continua. Al final de cada Sprint, se generó evidencia tangible: código commitado, pruebas automatizadas, documentación actualizada y demos funcionales, asegurando transparencia,
+calidad y progreso constante hacia la entrega final del producto digital.
+
+### 5.2.1. Sprint 1
+
+Este Sprint se centró en el desarrollo inicial de la Landing Page de Sentinel y en la estructuración del informe técnico del proyecto,
+estableciendo las bases visuales, funcionales y documentales del producto digital. Se priorizó la creación de una primera versión funcional y
+accesible de la página de inicio, junto con la organización del repositorio, la definición de convenciones de código y la preparación de la documentación inicial
+del proyecto. Todo ello bajo un enfoque colaborativo y ágil, garantizando coherencia entre el producto y su descripción técnica desde el primer día.
+
+#### 5.2.1.1. Sprint Planning 1
+
+| **Sprint #**| **Sprint 1**                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|--- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ***Sprint Planning Background***  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Date** | 2025-09-06                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Time** | 16:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 
+| **Location** | Reunión virtual por Discord (Lima, Perú)                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Prepared By**  | Daniel Ruiz                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Attendees (to planning meeting)** | Daniel Ruiz, Carlos De La Cruz Villarreal, Jude Hermosa, Fabrizio Quiroz, Liam Villugas                                                                                                                                                                                                                                                                                                                                                                                      | 
+| **Sprint n – 1 Review Summary** | No aplica. Este es el primer sprint del proyecto; no existe un Sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint n – 1 Retrospective Summary** | No aplica. Este es el primer sprint del proyecto; no existe un Sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                              |
+| ***Sprint Goal & User Stories*** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint 1 Goal** | Nos centramos en ofrecer una página de destino profesional, adaptable y accesible para Sentinel que comunique claramente el propósito y la propuesta de valor del proyecto. Creemos que transmite una primera impresión de profesionalismo y claridad a las partes interesadas, educadores y futuros usuarios. Esto se confirmará cuando la página de destino se implemente en Netlify, accesible mediante URL pública, e incluya todas las secciones de contenido acordadas |
+| **Sprint 1 Velocity** | 22                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 
+| **Sum of Story Points** | 22                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+#### 5.2.1.3. Sprint Backlog 1
+
+A continuación, se presenta el **Sprint Backlog para Sprint 1**, que contiene las User Stories seleccionadas del Product Backlog para la primera iteración del proyecto **Sentinel**.
+Este sprint se enfoca en el desarrollo de la **Landing Page**, con el objetivo de convertir a los visitantes anónimos en usuarios interesados y registrados.
+
+El enfoque de este sprint es **completar la experiencia del usuario en la página web**, asegurando que todos los elementos clave estén funcionales, visualmente atractivos y alineados con las necesidades identificadas en el *needfinding*.
+Las tareas están asignadas a roles técnicos (Frontend, UX/UI, QA) y estimadas en horas de trabajo.
+
+> **Duración del Sprint:** 2 semanas  
+> **Objetivo del Sprint:** Entregar una Landing Page funcional, completa y lista para pruebas de usabilidad.
+
 #### 5.2.X.4. Development Evidence for Sprint Review  
 #### 5.2.X.5. Execution Evidence for Sprint Review  
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review  
