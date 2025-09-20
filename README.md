@@ -871,11 +871,101 @@ La Landing Page y la Web App comparten la misma identidad visual: paleta de colo
 
 En esta sección se definen las decisiones que organizan, nombran y estructuran la información dentro de la experiencia digital de Sentinel, tanto en la Landing Page como en la Web Application. El objetivo es que los usuarios encuentren fácilmente información sobre seguridad, puedan contratar planes, gestionar sensores y cámaras, y recibir alertas o reportar incidentes de forma intuitiva, accesible y sin fricciones.
 
-### 4.2.1. Organization Systems  
-### 4.2.2. Labeling Systems  
-### 4.2.3. SEO Tags and Meta Tags  
-### 4.2.4. Searching Systems  
-### 4.2.5. Navigation Systems  
+#### 4.2.1. Organization Systems
+
+**Jerárquico:**  
+La información en Sentinel se organiza en niveles claros y progresivos: Inicio → Producto → Planes → Comunidad → Soporte → Contacto.
+
+**Secuencial:**  
+El flujo de contratación y activación del sistema sigue pasos definidos: elegir plan → registrar usuario → configurar sensores/cámaras → confirmar → activar protección y recibir acceso a la app.
+
+**Categorización por audiencia:**  
+- **Familias y personas que viven solas:** Planes básicos, guía de instalación y simulador de alertas.
+- **Juntas vecinales y administradores:** Planes comunitarios, tablero de gestión, reportes y coordinación vecinal.
+- **Autoridades locales y serenazgo:** Acceso a mapas de calor, reportes de incidentes y comunicación directa.
+
+**Visual hierarchy:**  
+Se priorizan los “call-to-action” (Contratar, Activar Alerta, Contactar Soporte) con botones destacados en el color primario azul (#0E587C).
+
+Se incluyen nuevas secciones en la arquitectura: Beneficios, Videos demostrativos, y Conoce al Equipo (en la página ACERCA). Además, se añade una página separada de Términos y Recomendaciones accesible desde el footer.
+
+#### 4.2.2. Labeling Systems
+
+Uso de etiquetas claras, breves y consistentes.
+
+**Ejemplos principales:**
+
+- Inicio (Landing Page)
+- Producto (Características, Beneficios)
+- Planes (Básico / Comunitario / Avanzado)
+- Comunidad (Gestión vecinal)
+- Sensores (Configuración)
+- Cámaras (Monitoreo)
+- Alertas (Activar, Historial)
+- Mi cuenta (Perfil, Configuración)
+- Soporte (FAQ, Contacto en vivo)
+- Beneficios
+- Videos
+- Conoce al Equipo
+- Términos y Recomendaciones
+
+Todas las etiquetas serán de máximo 2–3 palabras, evitando tecnicismos.
+
+Todas las etiquetas de navegación y botones se estandarizan en español para el público local: Inicio, Producto, Planes, Comunidad, Sensores, Cámaras, Alertas, Mi cuenta, Beneficios, Videos, Conoce al Equipo, Soporte, Contacto, Términos y Recomendaciones.
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+Se definen los metadatos básicos para mejorar el posicionamiento en buscadores:
+
+**Landing Page**
+
+Title: Sentinel | Seguridad inteligente para hogares y comunidades
+
+Meta Description: Protege tu vivienda y tu comunidad con Sentinel, el sistema de seguridad IoT que integra sensores, cámaras y alertas inmediatas. Instalación rápida, monitoreo en tiempo real y coordinación con autoridades.
+
+Keywords: seguridad inteligente, alarma IoT, Sentinel, ProtectX, protección vecinal, sensores, cámaras, Lima, comunidad segura
+
+Author: ProtectX Startup
+
+**Web Application**
+
+Title: Sentinel App | Monitorea y gestiona tu seguridad en línea
+
+Meta Description: Accede a tu cuenta Sentinel, configura sensores y cámaras, recibe alertas, reporta incidentes y coordina con tu comunidad y autoridades desde cualquier dispositivo.
+
+Keywords: seguridad online, monitoreo IoT, Sentinel app, protección digital, alertas inmediatas, comunidad segura
+
+Author: ProtectX Startup
+
+#### 4.2.4. Searching Systems
+
+**Buscador interno simple en la Web App**:
+
+Palabras clave: “Planes”, “Alertas”, “Sensores”, “Cámaras”, “Comunidad”, “Soporte”.
+
+Autocompletado con sugerencias relevantes.
+
+**Filtros en alertas e incidentes:** por estado (Pendiente, En proceso, Resuelto) y por fecha.
+
+FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. “¿Cómo activar una alerta?”, “¿Cómo instalar un sensor?”, “¿Cómo contactar al soporte?”).
+
+#### 4.2.5. Navigation Systems
+
+**Landing Page:**
+
+- Menú superior fijo con secciones principales: Inicio, Producto, Planes, Comunidad, Soporte y Contacto.
+- Footer con enlaces a contacto, términos y recomendaciones, políticas de privacidad y redes sociales.
+- Acceso directo a páginas externas como ACERCA y TERMINOS Y RECOMENDACIONES.
+- Los accesos a Soporte y Contacto en el footer abren modales centrados en pantalla.
+- Íconos de WhatsApp y correo electrónico permiten comunicación directa mediante enlaces reales a chat y email.
+
+**Web Application:**
+
+- Menú lateral en desktop con íconos y texto para navegación rápida entre módulos (Dashboard, Sensores, Cámaras, Alertas, Comunidad, Soporte).
+- Menú hamburguesa en mobile para optimizar espacio y facilitar la navegación.
+- Botones de acción rápida en el dashboard: Activar Alerta, Ver Sensores, Contactar Soporte.
+- Navegación consistente entre Landing Page y Web App, manteniendo la misma paleta de colores, tipografía Exo y estilo de botones e íconos.
+
 ---
 ## 4.3. Landing Page UI Design  
 ### 4.3.1. Landing Page Wireframe  
