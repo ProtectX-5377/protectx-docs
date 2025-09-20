@@ -200,7 +200,7 @@ ProtectX es una startup del sector seguridad que busca responder al problema de 
 
    <div align='center'>
      
-   <img src="resources/Cap-1/Members/jude.png" alt="imagen Jude" width="100" align='right'>
+   <img src="resources/Cap-1/Members/FotoJude.jpg" alt="imagen Jude" width="100" align='right'>
 
    ~~~txt
    Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el 5to ciclo de la carrera.
@@ -457,7 +457,15 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 **Sabremos que esto es cierto cuando** al menos el 60% de los usuarios valore positivamente la comunicación recibida en encuestas de satisfacción.
 
 ---
-#### 1.2.2.4. Lean UX Canvas  
+#### 1.2.2.4. Lean UX Canvas
+
+A continuación se puede visualizar el Lean UX Canvas donde se estructura y valida rápidamente ideas de producto.
+
+<p align="center">
+  <img src="./resources/Cap-1/leanuxcanvas.png" alt="Lean UX Canvas" width="850">
+</p>
+
+Visualizar diseño en Canva: https://www.canva.com/design/DAGzfYolLXw/sM_8Lj1iXQqIqoAouRbbsQ/edit
 ---
 ### 1.3. Segmentos Objetivos
 
