@@ -821,6 +821,19 @@ IDE: Entorno de Desarrollo Integrado
 ---
 ## 4.3. Landing Page UI Design  
 ### 4.3.1. Landing Page Wireframe  
+<img src="./resources/Cap-4/Landing_Page_Wireframe/Wireframe1.png" alt="Wireframe1">
+<img src="./resources/Cap-4/Landing_Page_Wireframe/Wireframe2.png" alt="Wireframe2">
+<img src="./resources/Cap-4/Landing_Page_Wireframe/Wireframe3.png" alt="Wireframe3">
+<img src="./resources/Cap-4/Landing_Page_Wireframe/Wireframe4.png" alt="Wireframe4">
+<img src="./resources/Cap-4/Landing_Page_Wireframe/Wireframe5.png" alt="Wireframe5">
+<img src="./resources/Cap-4/Landing_Page_Wireframe/Wireframe6.png" alt="Wireframe6">
+<img src="./resources/Cap-4/Landing_Page_Wireframe/Wireframe7.png" alt="Wireframe7">
+<img src="./resources/Cap-4/Landing_Page_Wireframe/Wireframe8.png" alt="Wireframe8">
+<img src="./resources/Cap-4/Landing_Page_Wireframe/Wireframe9.png" alt="Wireframe9">
+
+
+
+
 ### 4.3.2. Landing Page Mock-up  
 ---
 ## 4.4. Web Applications UX/UI Design  
