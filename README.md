@@ -160,7 +160,12 @@ Agosto del 2025 🗓️
 ---
 
 ## Student Outcome
-> Describir los resultados de aprendizaje y cómo se alinean con el curso.
+
+| Criterio específico | Acciones realizadas (TB1) | Conclusiones (TB1) |
+|---|---|---|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Daniel Ruiz:** Se evidenció la comunicación oral mediante la **descripción de la StartUp**, la **presentación de los perfiles de los integrantes del equipo** y la exposición de los **antecedentes y la problemática** que motivaron el proyecto. Estas acciones permitieron transmitir ideas de manera clara y estructurada, adaptando el mensaje a diferentes públicos y asegurando la comprensión de los objetivos y del contexto del trabajo. <br> **Liam Villugas:** <br> **Fabrizio Quiroz:** <br> **Jude Hermoza:** <br> **Carlos De La Cruz:** | El equipo logró transmitir ideas de forma clara y estructurada en presentaciones y reuniones, adaptando el mensaje a distintos perfiles de audiencia. Esto favoreció la comprensión mutua, la toma de decisiones oportunas y una interacción más efectiva dentro del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Daniel Ruiz:** La comunicación escrita se reflejó en la elaboración de documentación técnica como el **Software Architecture Context Diagram**, el **Container Diagram**, el **Component Diagram** y el **Class Diagram con su diccionario**. Estos entregables fueron desarrollados con claridad, coherencia y trazabilidad, lo que facilitó la coordinación entre los miembros del equipo, la comprensión de la arquitectura propuesta y la alineación con los objetivos del proyecto. <br> **Liam Villugas:** <br> **Fabrizio Quiroz:** <br> **Jude Hermoza:** <br> **Carlos De La Cruz:** | Se evidenció la capacidad del equipo para elaborar documentos técnicos y de gestión con claridad, coherencia y trazabilidad. Los entregables escritos facilitaron la coordinación entre miembros, garantizaron la alineación con los objetivos y sirvieron como base de referencia confiable para el desarrollo del proyecto. |
+
 
 ---
 
