@@ -816,11 +816,61 @@ IDE: Entorno de Desarrollo Integrado
 
 # Capítulo IV: Product Design  
 
-## 4.1. Style Guidelines  
+### 4.1. Style Guidelines
+
+En esta sección, el equipo de ProtectX define un sistema visual unificado para Sentinel, agrupando los elementos centrales de identidad: paleta de colores, tipografías, íconos, espaciados y componentes reutilizables. El objetivo es asegurar una experiencia visual coherente, accesible y funcional, que respalde la misión de brindar seguridad y tranquilidad a familias, comunidades y autoridades mediante un producto digital confiable y fácil de usar.
+
+Todos los elementos textuales, menús, botones y etiquetas se presentan en idioma español, garantizando consistencia local y mayor accesibilidad para los usuarios de Lima y zonas urbanas del país.
+
 ### 4.1.1. General Style Guidelines  
-### 4.1.2. Web Style Guidelines  
+
+**Branding:**  
+La identidad visual de Sentinel comunica seguridad, confianza y colaboración comunitaria. El diseño busca proyectar un servicio tecnológico, moderno y accesible para familias, comunidades y autoridades.
+
+**Paleta de colores:**  
+- **Primarios:** Azul oscuro (#0E587C) y celeste (#88ABB4) para transmitir seguridad y confianza.  
+- **Secundarios:** Verde claro (#011936) para éxito y tranquilidad, gris oscuro (#465362) para neutralidad y profesionalismo, blanco (#FFFFFF) para limpieza y claridad.  
+
+**Tipografía:**  
+
+- **Titulares:** Exo (Google Font), en estilos Bold y Semi Bold para máxima legibilidad y jerarquía visual.  
+- **Cuerpo de texto:** Exo Regular/Medium, priorizando claridad y fácil lectura en todos los dispositivos.
+
+**Espaciados y grillas:**  
+- Sistema de 12 columnas para desktop (1440px y 1024px), centrado, con ancho de columna de 65px/50px y gutter de 30px.  
+- Márgenes y paddings definidos: 16px vertical, 48px horizontal para botones grandes; espaciados de 8px, 16px, 24px para mantener orden y claridad.
+
+**Tono de comunicación:**  
+Formal, claro y empático, dirigido a usuarios de Lima y zonas urbanas, promoviendo confianza y acción rápida ante emergencias.
+
+<p align="center">
+  <img src="./resources/Cap-2/colores.png" alt="colores" width="850">
+</p>
+
+#### 4.1.2. Web Style Guidelines
+
+**Diseño responsivo:**  
+La interfaz de Sentinel se adapta fluidamente a desktop, tablet y mobile, asegurando una experiencia óptima en cualquier dispositivo.
+
+**Componentes clave:**  
+- Botones principales con esquinas redondeadas y colores contrastantes (azul principal con texto blanco), variantes para estados: default, hover, active y disabled.
+- Formularios simples, con validación visual clara y mensajes de error amigables para el usuario.
+- Iconografía minimalista y consistente, utilizando íconos lineales para funciones clave como alertas, historial, sensores y comunidad.
+- Notificaciones diferenciadas por color para información, éxito y error, con opción de cierre manual.
+
+**Accesibilidad:**  
+- Contraste de color AA/AAA en todos los elementos interactivos.
+- Textos alternativos en imágenes e íconos.
+- Navegación accesible por teclado y foco visible en campos y botones.
+
+**Consistencia:**  
+La Landing Page y la Web App comparten la misma identidad visual: paleta de colores, tipografía Exo, estilo de botones e íconos, asegurando coherencia y reconocimiento de marca en toda la experiencia digital.
+
 ---
-## 4.2. Information Architecture  
+### 4.2. Information Architecture
+
+En esta sección se definen las decisiones que organizan, nombran y estructuran la información dentro de la experiencia digital de Sentinel, tanto en la Landing Page como en la Web Application. El objetivo es que los usuarios encuentren fácilmente información sobre seguridad, puedan contratar planes, gestionar sensores y cámaras, y recibir alertas o reportar incidentes de forma intuitiva, accesible y sin fricciones.
+
 ### 4.2.1. Organization Systems  
 ### 4.2.2. Labeling Systems  
 ### 4.2.3. SEO Tags and Meta Tags  
