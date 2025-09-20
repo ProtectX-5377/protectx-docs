@@ -1017,7 +1017,6 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 
 <img src="./resources/Cap-4/Class_Diagram/ProtectX-ClassDiagram.png">
 
-### 4.7.2. Class Dictionary 
 
 ### 4.7.2. Class Dictionary  
 
@@ -1047,10 +1046,77 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 
 ## 5.1. Software Configuration Management  
 ### 5.1.1. Software Development Environment Configuration  
+
+**Requirements Management**
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar. Ruta de referencia [https://trello.com/es](https://trello.com/es)
+
+**Product UX/UI Design**
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser. Ruta de referencia [https://www.figma.com/login](https://www.figma.com/login)
+2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación. Ruta de referencia [https://www.lucidchart.com/](https://www.lucidchart.com/)
+
+**Software Testing**
+1. Gherkin: Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story. Ruta de referencia [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/)
+
+**Software Development**
+1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referencia [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. Ruta de referencia [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+4. TypeScript: Es un lenguaje de programación de código abierto desarrollado por Microsoft. Se basa en JavaScript, pero añade tipado estático, clases e interfaces que permiten desarrollar aplicaciones más robustas y escalables. Se utilizará para la implementación de la lógica y la interfaz de usuario dentro de la aplicación. Ruta de referencia [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
+
+**Software Deployment**
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales. Ruta de referencia [https://git-scm.com/](https://git-scm.com/)
+
+**Software Documentation and Project Management**
+1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web. Ruta de referencia [https://github.com/](https://github.com/)
+
 ### 5.1.2. Source Code Management  
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
+**Repositorio de GitHub:**
+Enlace para acceder a la [organización en GitHub](https://github.com/ProtectX-5377)
+Enlace para acceder al repositorio de la [Landing Page](https://github.com/ProtectX-5377/protectx-landing)
+
+**Flujo de trabajo GitFlow:**
+El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
+
+<img src="./resources/Cap-5/gitflow.webp">
+
 ### 5.1.3. Source Code Style Guide & Conventions  
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+
+1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`
+
+**CSS:** Entre las prácticas empleadas se mencionan:
+
+1. Los nombres de las clases deben de ser breves y autodescriptivos.
+2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida luego de usar el valor 0.
+4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
+
 ### 5.1.4. Software Deployment Configuration  
+
+**Landing page deployment:**
+
+Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada "docs" para alojar el Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "style.css" para los estilos y una carpeta llamada "img" que contenga las imágenes.
+3. Cargar los archivos al repositorio mediante un commit.
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
+![Github_pages](/resources/Cap-5/landingpagedeploy)
+
+Enlace para acceder al [landing page]()
 ---
+
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.X. Sprint n  
 #### 5.2.X.1. Sprint Planning n  
@@ -1064,23 +1130,173 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 ---
 ## 5.3. Validation Interviews  
 ### 5.3.1. Diseño de entrevistas  
+**Preguntas por Segmento Objetivo**
+
+**A. Hogares**  
+1. ¿Qué incidentes de seguridad has experimentado en tu vivienda en los últimos 12 meses?  
+2. ¿Qué métodos de seguridad utilizas actualmente y qué limitaciones encuentras en ellos?  
+3. ¿Qué características te darían confianza para pagar por un sistema de seguridad inteligente?  
+4. ¿Qué tipo de alertas en el celular considerarías más útiles en caso de emergencia?  
+5. ¿Cuál sería un precio justo por un servicio que combine sensores, cámaras y alertas inmediatas?
+
+**B. Juntas vecinales / Administradores**  
+1. ¿Cómo se organizan actualmente ante incidentes en su comunidad?  
+2. ¿Qué problemas tienen al coordinar con serenazgo o PNP?  
+3. ¿Qué información necesitan en un tablero comunitario para decidir rápido?  
+4. ¿Qué nivel de personalización requieren en permisos de acceso a cámaras o alertas?  
+5. ¿Qué esquema de suscripción sería más viable: por unidad habitacional, por sensor común o por administración?
+
+**C. Autoridades locales / Serenazgo**  
+1. ¿Qué dificultades enfrentan hoy para responder a incidentes vecinales?  
+2. ¿Qué tipo de información en tiempo real les facilitaría priorizar emergencias?  
+3. ¿Cómo debería integrarse un sistema de seguridad comunitario con sus protocolos actuales?  
+4. ¿Qué formato de evidencia (video, fotos, reportes automáticos) sería más útil para agilizar su respuesta?  
+5. ¿Qué expectativas tendrían respecto a la colaboración ciudadana mediante apps como ProtectX?
 ### 5.3.2. Registro de entrevistas  
+| Entrevistado | Segmento | Fecha      | Video                                                                                                                            |
+|--------------|----------|------------|----------------------------------------------------------------------------------------------------------------------------------|
+| INT-001      | Hogar    | 08/09/2025 | [![Ver video](resources/Cap-1/SSInterview1)](https://drive.google.com/file/d/1ULhjDtqXoQH0KRz3L7NDmq6DvCik1M0b/view?usp=sharing) |
+| INT-002      | Junta/Administrador | 16-09-2025 | [![Ver video](resources/Cap-2/Christian.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EeioWrabT_9Hl0h29N9C2bUBo3IXoQKWewVzcleUHOOlxA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aVkcFt)                                                          |
 ### 5.3.3. Evaluaciones según heurísticas  
 ---
+
+####  Objetivo
+Identificar problemas de usabilidad en **ProtectX / Sentinel** durante el **Sprint 1**, priorizando mejoras críticas relacionadas con:
+- Cancelación de alertas SOS  
+- Estados de sensores IoT  
+- Funcionalidades de armar/desarmar  
+
+Estas áreas se consideran de **alto impacto** para reducir falsas alarmas, mejorar la visibilidad del sistema y dar control al usuario.
+
+---
+
+#### Marco Teórico y Método
+Se aplicaron las **10 Heurísticas de Usabilidad de Nielsen**, que permiten evaluar la experiencia de usuario con base en principios generales de diseño.  
+Para clasificar la severidad se utilizó la **escala de Nielsen (0–4)**:
+
+| Severidad | Descripción |
+|-----------|-------------|
+| 0 | No es un problema |
+| 1 | Cosmético |
+| 2 | Menor |
+| 3 | Mayor |
+| 4 | Crítico (catástrofe de usabilidad) |
+
+> Evaluación realizada considerando **frecuencia, impacto y persistencia** del problema.
+
+---
+
+####  Alcance del Sprint 1
+1. **Flujo SOS y cancelación de falsas alarmas**  
+2. **Visualización de estados de sensores (activo, batería, conexión)**  
+3. **Armar y desarmar zonas con opción de deshacer**
+
+---
+
+####  Resumen Ejecutivo
+- **Total de hallazgos:** 3  
+- **Críticos (Sev 4):** 2  
+- **Mayores (Sev 3):** 1  
+- **Beneficio esperado tras correcciones:**  
+  - Reducción del **40–60%** en falsas alarmas.  
+  - Aumento del **control percibido** por el usuario.  
+  - Disminución de tickets de soporte relacionados a fallas de estado de sensores.
+
+---
+
+####  Hallazgos del Sprint 1
+
+| ID | Heurística | Descripción del Problema | Severidad | Recomendación |
+|----|------------|--------------------------|-----------|---------------|
+| **HX-01** | H3: Control y libertad / H5: Prevención de errores | El botón de **cancelar SOS** es poco visible y el temporizador de gracia no es claro, lo que provoca escalamiento accidental de emergencias. | 4 (Crítico) | Implementar un **banner fijo** con temporizador visible y botón “Cancelar” de alto contraste. Añadir confirmación por doble tap y retroalimentación háptica. |
+| **HX-02** | H1: Visibilidad del estado / H4: Consistencia | Los íconos de sensores no diferencian claramente entre “offline”, “batería baja” e “inactivo”. Esto confunde a los usuarios. | 4 (Crítico) | Añadir **badges de estado** (“Offline”, “Batería <20%”), leyenda de íconos y opción de filtrar solo fallas. |
+| **HX-03** | H3: Control y libertad | Al armar o desarmar zonas, no existe una opción de “deshacer” en caso de error de toque. | 3 (Mayor) | Añadir **snackbar con opción de deshacer (5s)** y retroceso rápido. |
+
+---
+
+####  Plan de Acción Sprint 1
+- **Implementar cancelación de SOS visible y clara** (HX-01).  
+- **Diferenciar estados de sensores con etiquetas y colores consistentes** (HX-02).  
+- **Agregar función de deshacer en armar/desarmar** (HX-03).  
+
+---
+
+####  Referencias
+- Nielsen Norman Group – [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)  
+- Nielsen Norman Group – [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
+
 ## 5.4. Video About-the-Product  
 
 ---
 
-# Conclusiones  
 
-## Conclusiones y recomendaciones  
+##  Conclusiones y Recomendaciones
+
+###  Conclusiones Generales
+
+1. **Propuesta de valor sólida y diferenciada**  
+   ProtectX se presenta como una solución de seguridad que integra sensores IoT, cámaras y una plataforma digital para la prevención y respuesta ante incidentes en tiempo real. A diferencia de servicios tradicionales, el proyecto enfatiza la **modularidad**, la **conexión comunitaria** y la **integración con autoridades locales**. Esto no solo fortalece la confianza de los usuarios finales, sino que también le da una ventaja competitiva frente a las ofertas actuales en el mercado limeño, en las que la seguridad suele depender de servicios aislados y poco accesibles.  
+
+2. **Segmentación de usuarios bien estructurada**  
+   La identificación de tres segmentos principales —hogares, juntas vecinales/administradores y autoridades/serenazgo— permite diseñar una experiencia diferenciada según necesidades reales. Los hogares requieren simplicidad y confianza, las juntas vecinales buscan herramientas de coordinación comunitaria y generación de reportes, mientras que las autoridades necesitan rapidez, trazabilidad y evidencias confiables. Esta segmentación se refleja en la arquitectura de la aplicación y sienta las bases para **estrategias de adopción y escalabilidad** más efectivas.  
+
+3. **Énfasis en usabilidad y experiencia de usuario (UX)**  
+   El proyecto no se limita al desarrollo tecnológico, sino que incorpora prácticas de diseño centradas en el usuario: análisis competitivo, journey maps, wireframes, style guide, heurísticas de Nielsen y pruebas de usabilidad. Estos esfuerzos buscan reducir barreras de uso y aumentar la **adopción de la plataforma**, asegurando que la tecnología no solo funcione correctamente, sino que sea percibida como intuitiva, confiable y accesible por diferentes perfiles de usuario.  
+
+4. **Validación temprana y alineación con metodologías ágiles**  
+   ProtectX se construye sobre un enfoque **Lean UX** y de validación temprana mediante entrevistas, hipótesis y experimentos. Este proceso iterativo minimiza riesgos de mercado y de aceptación tecnológica, ya que las decisiones de diseño y desarrollo están fundamentadas en **retroalimentación real de los usuarios**. Además, la planificación en sprints favorece la mejora continua y la entrega incremental de valor, lo que permite avanzar de manera ordenada hacia un MVP viable y escalable.  
+
+---
+
+###  Recomendaciones
+
+1. **Fortalecer flujos críticos del MVP mediante pruebas heurísticas**  
+   En este primer sprint, se debe priorizar la mejora de los flujos más sensibles: cancelación de alertas SOS, visualización de estados de sensores y control de armado/desarmado. Se recomienda aplicar pruebas con usuarios reales y análisis heurístico para garantizar que estas funcionalidades críticas sean confiables y fáciles de usar.  
+
+2. **Implementar seguimiento de métricas de usabilidad y efectividad**  
+   Definir métricas clave (ej. reducción de falsas alarmas, tasa de éxito en onboarding de sensores, tiempo promedio de respuesta, nivel de satisfacción del usuario) permitirá medir el impacto de las mejoras y orientar las decisiones de desarrollo hacia objetivos cuantificables.  
+
+3. **Optimizar la confiabilidad de los dispositivos IoT**  
+   La robustez técnica de los sensores es esencial para la confianza del usuario. Se recomienda asegurar autonomía suficiente de baterías, mecanismos de reconexión automática, notificaciones preventivas de fallos y protocolos de seguridad de datos. Estos factores reducen fricciones técnicas y fortalecen la percepción de calidad.  
+
+4. **Mejorar la comunicación visual de estados y errores**  
+   El sistema debe ofrecer retroalimentación inmediata y comprensible: estados claros de los sensores, copys explicativos para permisos, y mensajes de error que incluyan acciones de recuperación. Esto permitirá que tanto usuarios finales como autoridades puedan tomar decisiones rápidas sin depender de soporte técnico.  
+
+5. **Ejecutar pilotos locales con retroalimentación directa**  
+   Antes de la expansión a gran escala, realizar pruebas piloto en distritos representativos de Lima permitirá validar en condiciones reales la estabilidad del sistema, la cobertura de red y la usabilidad en diferentes contextos socioeconómicos. La retroalimentación obtenida será clave para priorizar mejoras y adaptar la solución a la realidad del mercado objetivo.  
+
+6. **Planificar la escalabilidad técnica y organizativa**  
+   Desde esta fase inicial es importante sentar bases para la escalabilidad: arquitectura modular, backend preparado para alta concurrencia, separación clara de capas en TypeScript, y documentación técnica para facilitar la colaboración futura. A nivel organizativo, también se recomienda definir protocolos de soporte, mantenimiento y seguridad de datos para garantizar confianza en el largo plazo.  
+
+---
 
 ## Video About-the-Team  
 
 ---
 
-# Bibliografía  
-> Referencias en formato APA.  
+### 📚 Bibliografía / Referencias
+
+- Nielsen Norman Group. *“10 Usability Heuristics for User Interface Design”*.  
+  Disponible en: [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)  
+
+- Nielsen Norman Group. *“How to Rate the Severity of Usability Problems”*.  
+  Disponible en: [https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
+
+- Gothelf, Jeff & Seiden, Josh. *Lean UX: Designing Great Products with Agile Teams*. O’Reilly Media.  
+
+- Microsoft Docs. *TypeScript Handbook*.  
+  Disponible en: [https://www.typescriptlang.org/docs/handbook/intro.html](https://www.typescriptlang.org/docs/handbook/intro.html)  
+
+- Astro Documentation. *Astro Framework*.  
+  Disponible en: [https://docs.astro.build](https://docs.astro.build)  
+
+- Tidwell, Jenifer. *Designing Interfaces: Patterns for Effective Interaction Design*. O’Reilly Media.  
+
+- World Wide Web Consortium (W3C). *Web Content Accessibility Guidelines (WCAG)*.  
+  Disponible en: [https://www.w3.org/WAI/standards-guidelines/wcag/](https://www.w3.org/WAI/standards-guidelines/wcag/)  
+
+- Sethi, P.; Sarangi, S. *Internet of Things: Architectures, Protocols, and Applications*. Journal of Electrical and Computer Engineering.  
+
 
 ---
 
