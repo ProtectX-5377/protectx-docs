@@ -1146,10 +1146,34 @@ del proyecto. Todo ello bajo un enfoque colaborativo y ágil, garantizando coher
 | **Sprint n – 1 Retrospective Summary** | No aplica. Este es el primer sprint del proyecto; no existe un Sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                              |
 | ***Sprint Goal & User Stories*** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **Sprint 1 Goal** | Nos centramos en ofrecer una página de destino profesional, adaptable y accesible para Sentinel que comunique claramente el propósito y la propuesta de valor del proyecto. Creemos que transmite una primera impresión de profesionalismo y claridad a las partes interesadas, educadores y futuros usuarios. Esto se confirmará cuando la página de destino se implemente en Netlify, accesible mediante URL pública, e incluya todas las secciones de contenido acordadas |
-| **Sprint 1 Velocity** | 22                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 
-| **Sum of Story Points** | 22                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Sprint 1 Velocity** | 27                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 
+| **Sum of Story Points** | 27                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+En esta sección se presentan los principales aspectos funcionales y técnicos abordados durante el Sprint 1 del desarrollo de Sentinel   . Cada aspecto corresponde a un componente crítico del alcance del sprint, dividido en dos pilares fundamentales: **desarrollo de la Landing Page** y **estructuración del informe técnico del proyecto**.
+
+Para cada aspecto, se ha asignado un **Líder (L)**, quien asumió la responsabilidad principal de su diseño, implementación o coordinación técnica; y uno o más **Colaboradores (C)**, quienes participaron activamente en la ejecución, revisión, pruebas o soporte. Esta matriz LACX (Leadership and Collaboration Matrix) permite visualizar de manera clara y estructurada la distribución de responsabilidades dentro del equipo, promoviendo la trazabilidad del trabajo colaborativo realizado durante el Sprint.
+
+A continuación, se detallan los aspectos definidos y los roles asignados:
+
+| Team Member (Last Name, First Name) | GitHub Username | LP | ID | IN | DO | RI |
+|-------------------------------------|-----------------|----|----|----|----|----|
+| Daniel Ruiz                         | DanRuizPeru     | L  | C  | C  | C  | C  |
+| Liam Villugas                       | Liamvillugas    | C  | L  | C  | C  | C  |
+| Carlos De La Cruz Villarreal        | carlos03dlc     | C  | C  | L  | C  | C  |
+| Fabrizio Quiroz                     | Relycloud       | C  | C  | C  | L  | C  |
+| Jude Hermoza                        | JudeWYA         | C  | C  | C  | C  | L  |
+
+**Legenda de Aspectos:**
+- **LP**: Landing Page Implementation — Desarrollo de la página principal con HTML, CSS, Bootstrap y estructura semántica.
+- **ID**: Interface Design & Figma Alignment — Traducción del diseño visual de Figma a código frontend, consistencia de colores, tipografía y espaciado.
+- **IN**: Informe Técnico — Elaboración, estructuración y redacción del informe del proyecto (documentación de arquitectura, convenciones, sprints).
+- **DO**: Deployment & Hosting — Configuración y despliegue de la Landing Page en Netlify, verificación de URL pública y acceso.
+- **RI**: Repository Initialization — Configuración inicial del repositorio en GitHub, organización de carpetas, archivos README.md, .gitignore y convenciones de código.
+
+> *Nota: Todos los miembros del equipo participaron activamente en todos los aspectos, pero se designó un líder por área para facilitar la toma de decisiones y la trazabilidad del trabajo.*
+
 #### 5.2.1.3. Sprint Backlog 1
 
 A continuación, se presenta el **Sprint Backlog para Sprint 1**, que contiene las User Stories seleccionadas del Product Backlog para la primera iteración del proyecto **Sentinel**.
@@ -1161,11 +1185,21 @@ Las tareas están asignadas a roles técnicos (Frontend, UX/UI, QA) y estimadas 
 > **Duración del Sprint:** 2 semanas  
 > **Objetivo del Sprint:** Entregar una Landing Page funcional, completa y lista para pruebas de usabilidad.
 
-#### 5.2.X.4. Development Evidence for Sprint Review  
-#### 5.2.X.5. Execution Evidence for Sprint Review  
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review  
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review  
-#### 5.2.X.8. Team Collaboration Insights during Sprint  
+| # Orden | User Story Id | Título                  | Descripción                                                                                                                         | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | US01          | Introducción clara      | Como visitante, quiero entender qué es Sentinel y cómo funciona, para evaluar si resuelve mi necesidad de seguridad.                | 3                                |
+| 2       | US02          | Funcionalidad IoT       | Como visitante, quiero ver ejemplos de sensores y la app en la landing, para comprender cómo funciona la solución.                  | 5                                |
+| 3       | US03          | Casos de uso colectivos | Como junta vecinal interesada, quiero ver ejemplos de uso comunitario, para evaluar si Sentinel es viable en mi zona.               | 5                                |
+| 4       | US04          | Comparación de planes   | Como usuario potencial, quiero ver y comparar planes de suscripción, para elegir el que se adapte a mi hogar o comunidad.           | 3                                |
+| 5       | US05          | Historias de usuarios   | Como visitante, quiero ver testimonios de otros usuarios, para confiar en la solución antes de registrarme.                         | 3                                |
+| 6       | US11          | Información comunitaria | Como junta vecinal, quiero ver información sobre soluciones colectivas, para evaluar Sentinel como opción de seguridad comunitaria. | 8                                |
+| 7       | US15          | Canales alternativos    | Como visitante, quiero encontrar enlaces a redes sociales y chat de soporte, para comunicarme fácilmente con Sentinel.              | 3                                |
+
+#### 5.2.1.4. Development Evidence for Sprint Review  
+#### 5.2.1.5. Execution Evidence for Sprint Review  
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review  
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review  
+#### 5.2.1.8. Team Collaboration Insights during Sprint  
 ---
 ## 5.3. Validation Interviews  
 ### 5.3.1. Diseño de entrevistas  
