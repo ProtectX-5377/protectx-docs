@@ -596,8 +596,7 @@ El análisis competitivo busca **identificar fortalezas y debilidades de los com
 **Segmentos objetivo**
 
 1. **Personas/familias que viven solas o con temor por la inseguridad (hogares).**  
-2. **Juntas vecinales y administradores de edificios residenciales.**  
-3. **Autoridades locales y serenazgo.**
+2. **Juntas vecinales y administradores de edificios residenciales.**
 
 **Preguntas por Segmento Objetivo**
 
@@ -615,13 +614,6 @@ El análisis competitivo busca **identificar fortalezas y debilidades de los com
 4. ¿Qué nivel de personalización requieren en permisos de acceso a cámaras o alertas?  
 5. ¿Qué esquema de suscripción sería más viable: por unidad habitacional, por sensor común o por administración?
 
-**C. Autoridades locales / Serenazgo**  
-1. ¿Qué dificultades enfrentan hoy para responder a incidentes vecinales?  
-2. ¿Qué tipo de información en tiempo real les facilitaría priorizar emergencias?  
-3. ¿Cómo debería integrarse un sistema de seguridad comunitario con sus protocolos actuales?  
-4. ¿Qué formato de evidencia (video, fotos, reportes automáticos) sería más útil para agilizar su respuesta?  
-5. ¿Qué expectativas tendrían respecto a la colaboración ciudadana mediante apps como ProtectX?
-
 ---
 
 ### 2.2.2. Registro de entrevistas
@@ -630,7 +622,7 @@ El análisis competitivo busca **identificar fortalezas y debilidades de los com
 |--------------|----------|------------|----------------------------------------------------------------------------------------------------------------------------------|
 | INT-001      | Hogar    | 08/09/2025 | [![Ver video](resources/Cap-1/SSInterview1)](https://drive.google.com/file/d/1ULhjDtqXoQH0KRz3L7NDmq6DvCik1M0b/view?usp=sharing) |
 | INT-002      | Junta/Administrador | 16-09-2025 | [![Ver video](resources/Cap-2/Christian.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EeioWrabT_9Hl0h29N9C2bUBo3IXoQKWewVzcleUHOOlxA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aVkcFt)                                                          |
-| INT-003      | Autoridad/Serenazgo | AAAA-MM-DD | [![Ver video]()](https://drive.google.com)                                                                                       |
+| INT-003      | Hogar | 20/09/2025 | [![Ver video](resources/Cap-2/Jhonny.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318220_upc_edu_pe/EX9oxP36OglAir2udy8mAoEBPnmVURdAYtR-Rs7GEmq8ww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nXVmzH)                                                                                       |
 
 | … | … | … | … |
 
