@@ -53,7 +53,13 @@ Agosto del 2025 🗓️
 ## Project Report Collaboration Insights
 > Aquí se registran observaciones del trabajo colaborativo, contribuciones por sprint y aprendizajes.
 
----
+**Link de reporte del equipo**:
+
+https://github.com/ProtectX-5377/protectx-docs 
+
+**Link de la Landing Page del equipo**
+
+https://github.com/ProtectX-5377/protectx-landing 
 
 ## Contenido del Informe
 
@@ -1047,7 +1053,7 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 ## 4.8. Database Design  
 ### 4.8.1. Database Diagram  
 
----
+<img src="./resources/Cap-4/Diagrama%20de%20base%20de%20datos.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment  
 
