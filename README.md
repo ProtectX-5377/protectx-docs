@@ -1045,7 +1045,9 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 <img src="./resources/Cap-4/Web_Applications_user_flow_Diagrams/Userflow1.png" alt="Mockup5"> 
 
 ## 4.5. Web Applications Prototyping  
----
+
+Link: https://www.figma.com/proto/MZClATrhM0Gkr5MmAOzJ4b/Untitled?node-id=91-114&t=qBTfnH4psgWOigcZ-1&scaling=min-zoom&content-scaling=fixed&page-id=82%3A2
+
 ## 4.6. Domain-Driven Software Architecture  
 ### 4.6.1. Software Architecture Context Diagram
 
