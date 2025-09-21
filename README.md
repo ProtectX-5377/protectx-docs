@@ -974,15 +974,44 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 
 
 ### 4.3.2. Landing Page Mock-up  
----
-## 4.4. Web Applications UX/UI Design  
+<img src="./resources/Cap-4/Landing_Page_Mockup/m1.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m2.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m3.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m4.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m5.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m6.png">
+
+## 4.4. Web Applications UX/UI Design 
+
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup5.png" 
+
 ### 4.4.1. Web Applications Wireframes  
-### 4.4.2. Web Applications Wireflow Diagrams  
+
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe1.png" alt="Wireframe1"> 
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe2.png" alt="Wireframe1"> 
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe3.png" alt="Wireframe1"> 
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe4.png" alt="Wireframe1"> 
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe5.png" alt="Wireframe1"> 
+
+### 4.4.2. Web Applications Wireflow Diagrams 
+<img src="./resources/Cap-4/Web-Applications-Wireflow-Diagrams/Wireflow1.png" alt="Wireflow">  
+
 ### 4.4.3. Web Applications Mock-ups  
+
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup1.png" alt="Mockup1"> 
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup2.png" alt="Mockup2"> 
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup3.png" alt="Mockup4"> 
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup4.png" alt="Mockup4"> 
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup5.png" alt="Mockup5"> 
+
 ### 4.4.4. Web Applications User Flow Diagrams  
----
+
+<img src="./resources/Cap-4/Web_Applications_user_flow_Diagrams/Userflow1.png" alt="Mockup5"> 
+
 ## 4.5. Web Applications Prototyping  
----
+
+Link: https://www.figma.com/proto/MZClATrhM0Gkr5MmAOzJ4b/Untitled?node-id=91-114&t=qBTfnH4psgWOigcZ-1&scaling=min-zoom&content-scaling=fixed&page-id=82%3A2
+
 ## 4.6. Domain-Driven Software Architecture  
 ### 4.6.1. Software Architecture Context Diagram
 
