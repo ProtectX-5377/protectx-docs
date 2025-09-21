@@ -819,9 +819,27 @@ IDE: Entorno de Desarrollo Integrado
 | US15 | Canales alternativos |Como visitante, quiero encontrar enlaces a redes sociales y chat de soporte, para comunicarme fácilmente con Sentinel. | **Escenario 1:** Dado que el visitante revisa el footer, cuando lo observa, entonces encuentra iconos de redes sociales.<br>**Escenario 2:** Dado que el visitante busca soporte, cuando hace clic en el chat, entonces se abre una ventana de ayuda inmediata. | EPIC-07 |
 
 ## 3.3. Impact Mapping  
+<img src="./resources/Cap-3/Impactmapping.png" alt="Impact Mapping">
+
 ## 3.4. Product Backlog  
 
----
+| Orden | User Story Id | Título | Descripción | Story Points |
+|-------|---------------|--------|-------------|--------------|
+| 1 | US-01 | Información básica del producto | Como visitante, quiero entender qué es Sentinel y cómo funciona, para evaluar si resuelve mi necesidad de seguridad. | 3 |
+| 2 | US-02 | Visualización del sistema | Como visitante, quiero ver una explicación clara con imágenes, para visualizar el funcionamiento del sistema IoT. | 5 |
+| 3 | US-03 | Comparar planes de suscripción | Como usuario potencial, quiero ver y comparar planes de suscripción, para elegir el que se adapte a mi hogar o comunidad. | 5 |
+| 4 | US-08 | Registro y login | Como usuario, quiero registrarme e iniciar sesión desde la landing, para acceder a mi cuenta y servicios contratados. | 8 |
+| 5 | US-09 | Autenticación segura | Como usuario, quiero autenticación segura (ej: email/2FA), para proteger mi información personal. | 5 |
+| 6 | US-10 | Portal de administradores | Como administrador, quiero acceder a un portal exclusivo, para gestionar usuarios y sensores. | 8 |
+| 7 | US-11 | Alertas inmediatas a autoridades | Como administrador, quiero enviar alertas inmediatas a la policía desde la plataforma, para recibir apoyo rápido. | 8 |
+| 8 | US-12 | Soluciones colectivas | Como junta vecinal, quiero ver información sobre soluciones colectivas, para evaluar Sentinel como opción de seguridad comunitaria. | 5 |
+| 8 | US-13 | Acceso a documentación técnica | Como desarrollador, quiero acceder a documentación técnica y API keys desde la landing, para integrar Sentinel en otras plataformas. | 5 |
+| 10 | US-15 | Canal de contacto directo | Como usuario interesado, quiero un canal directo de contacto, para resolver dudas o pedir más información. | 3 |
+| 11 | US-06 | Testimonios de clientes | Como visitante, quiero ver testimonios y casos de éxito, para confiar en la solución antes de registrarme. | 3 |
+| 12 | US-07 | Logos de aliados estratégicos | Como visitante, quiero ver logos de empresas aliadas, para reforzar la credibilidad de Sentinel. | 2 |
+| 13 | US-04 | Beneficios de cada plan | Como usuario potencial, quiero ver beneficios de cada plan, para entender el valor de la inversión. | 3 |
+| 14 | US-14 | Sandbox para devs | Como desarrollador, quiero un sandbox de prueba, para validar la integración sin afectar datos reales. | 8 |
+
 
 # Capítulo IV: Product Design  
 
