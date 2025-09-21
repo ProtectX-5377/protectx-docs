@@ -1146,8 +1146,8 @@ del proyecto. Todo ello bajo un enfoque colaborativo y ágil, garantizando coher
 | **Sprint n – 1 Retrospective Summary** | No aplica. Este es el primer sprint del proyecto; no existe un Sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                              |
 | ***Sprint Goal & User Stories*** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **Sprint 1 Goal** | Nos centramos en ofrecer una página de destino profesional, adaptable y accesible para Sentinel que comunique claramente el propósito y la propuesta de valor del proyecto. Creemos que transmite una primera impresión de profesionalismo y claridad a las partes interesadas, educadores y futuros usuarios. Esto se confirmará cuando la página de destino se implemente en Netlify, accesible mediante URL pública, e incluya todas las secciones de contenido acordadas |
-| **Sprint 1 Velocity** | 27                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 
-| **Sum of Story Points** | 27                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Sprint 1 Velocity** | 17                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 
+| **Sum of Story Points** | 17                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -1176,7 +1176,7 @@ A continuación, se detallan los aspectos definidos y los roles asignados:
 
 #### 5.2.1.3. Sprint Backlog 1
 
-A continuación, se presenta el **Sprint Backlog para Sprint 1**, que contiene las User Stories seleccionadas del Product Backlog para la primera iteración del proyecto **Sentinel**.
+A continuación, se presenta el **Sprint Backlog para Sprint 1**, que contiene las User Stories seleccionadas del Product Backlog para la primera iteración del proyecto **ProtectX**.
 Este sprint se enfoca en el desarrollo de la **Landing Page**, con el objetivo de convertir a los visitantes anónimos en usuarios interesados y registrados.
 
 El enfoque de este sprint es **completar la experiencia del usuario en la página web**, asegurando que todos los elementos clave estén funcionales, visualmente atractivos y alineados con las necesidades identificadas en el *needfinding*.
@@ -1188,18 +1188,78 @@ Las tareas están asignadas a roles técnicos (Frontend, UX/UI, QA) y estimadas 
 | # Orden | User Story Id | Título                  | Descripción                                                                                                                         | Story Points (1 / 2 / 3 / 5 / 8) |
 |---------|---------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
 | 1       | US01          | Introducción clara      | Como visitante, quiero entender qué es Sentinel y cómo funciona, para evaluar si resuelve mi necesidad de seguridad.                | 3                                |
-| 2       | US02          | Funcionalidad IoT       | Como visitante, quiero ver ejemplos de sensores y la app en la landing, para comprender cómo funciona la solución.                  | 5                                |
-| 3       | US03          | Casos de uso colectivos | Como junta vecinal interesada, quiero ver ejemplos de uso comunitario, para evaluar si Sentinel es viable en mi zona.               | 5                                |
-| 4       | US04          | Comparación de planes   | Como usuario potencial, quiero ver y comparar planes de suscripción, para elegir el que se adapte a mi hogar o comunidad.           | 3                                |
-| 5       | US05          | Historias de usuarios   | Como visitante, quiero ver testimonios de otros usuarios, para confiar en la solución antes de registrarme.                         | 3                                |
-| 6       | US11          | Información comunitaria | Como junta vecinal, quiero ver información sobre soluciones colectivas, para evaluar Sentinel como opción de seguridad comunitaria. | 8                                |
-| 7       | US15          | Canales alternativos    | Como visitante, quiero encontrar enlaces a redes sociales y chat de soporte, para comunicarme fácilmente con Sentinel.              | 3                                |
+| 2       | US03          | Casos de uso colectivos | Como junta vecinal interesada, quiero ver ejemplos de uso comunitario, para evaluar si Sentinel es viable en mi zona.               | 5                                |
+| 3       | US04          | Comparación de planes   | Como usuario potencial, quiero ver y comparar planes de suscripción, para elegir el que se adapte a mi hogar o comunidad.           | 3                                |
+| 4       | US05          | Historias de usuarios   | Como visitante, quiero ver testimonios de otros usuarios, para confiar en la solución antes de registrarme.                         | 3                                |
+| 5       | US15          | Canales alternativos    | Como visitante, quiero encontrar enlaces a redes sociales y chat de soporte, para comunicarme fácilmente con Sentinel.              | 3                                |
+
 
 #### 5.2.1.4. Development Evidence for Sprint Review  
+
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page,
+Web Applications y Web Services. La sección inicia con una introducción que resume los principales avances en la implementación.
+
+Durante este Sprint, el equipo ha avanzado significativamente en la construcción de la Landing Page de ProtectX, integrando funcionalidades clave como internacionalización (i18n), 
+secciones de servicios, presentación del equipo y mejoras visuales.
+
+**Repositorio de Github**
+
+<img src="./resources/Cap-5/Evidence1.PNG">
+
+<img src="./resources/Cap-5/Evidence2.PNG">
+
+<img src="./resources/Cap-5/Evidence3.PNG">
+
+
+Total de commits: 57
+
 #### 5.2.1.5. Execution Evidence for Sprint Review  
+
+Despliegue de la Landing Page:
+
+En este Sprint, el equipo logró implementar y desplegar completamente la Landing Page de ProtectX.
+
+<img src="./resources/Cap-5/Despliegue-Landing.PNG">
+
+Link de la Landing Page Desplegada: https://protectx.netlify.app/ 
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
+
+Se utilizó Netlify para el despliegue de la landing page, para ello
+
+se enlazó el repositorio de la landing page con el sitio de netlify.
+
+<img src="./resources/Cap-5/Netlify.PNG">
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
+
+Todas las pestañas de navegación están operativas
+
+<img src="./resources/Cap-5/vista1.PNG">
+
+<img src="./resources/Cap-5/vista2.PNG">
+
+<img src="./resources/Cap-5/vista3.PNG">
+
+<img src="./resources/Cap-5/Vista4.PNG">
+
+<img src="./resources/Cap-5/vista5.PNG">
+
+<img src="./resources/Cap-5/vista6.PNG">
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
+
+El equipo desarrollo la landing page usando ramas para cada 'feature' el uso de ramas permitió que cada miembro del equipo
+trabajara en una parte del proyecto sin interferir en el trabajo de los demás. Al terminar cada 'feature' se comprueba que no tenga
+conflictos con la rama principal y se procede a hacer un 'pull request' para que se integre con la rama principal. A continuación, se
+muestra una imagen de la colaboración del equipo en GitHub.
+
+<img src="./resources/Cap-5/contributors.PNG">
+
+<img src="./resources/Cap-5/pulse.PNG">
+
+<img src="./resources/Cap-5/commits%20integrantes.PNG">
+
 ---
 ## 5.3. Validation Interviews  
 ### 5.3.1. Diseño de entrevistas  
