@@ -371,7 +371,7 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
    - Que las autoridades colaboren en la integración de alertas.
    - Que la tecnología funcione de manera confiable en diferentes entornos urbanos.
 
-### Supuestos del Cliente – NutriSmart
+### Supuestos del Cliente – Sentinel
 
 1. **¿Quién es el cliente?**  
    Personas y familias que buscan mejorar la seguridad de su vivienda, especialmente quienes viven en zonas de alta incidencia delictiva, así como juntas vecinales y administradores de edificios.
@@ -441,25 +441,6 @@ Hemos observado que muchos usuarios sienten que los sistemas tradicionales (reja
 **6ta Hipótesis**  
 **Creemos que** la integración de chat o foros internos fortalecerá la colaboración y comunicación entre vecinos.  
 **Sabremos que esto es cierto cuando** se registre un aumento del 40% en la interacción entre usuarios dentro de la plataforma.
-
----
-
-<!-- Segmento 3: Autoridades locales y serenazgo -->
-**7ma Hipótesis**  
-**Creemos que** la recepción de alertas en tiempo real permitirá a las autoridades responder más rápido a incidentes reportados por Sentinel.  
-**Sabremos que esto es cierto cuando** el tiempo promedio de respuesta disminuya en al menos un 25% en zonas piloto.
-
----
-
-**8va Hipótesis**  
-**Creemos que** el acceso a mapas de calor y reportes de incidentes ayudará a las autoridades a optimizar la vigilancia y patrullaje.  
-**Sabremos que esto es cierto cuando** las rutas de patrullaje se ajusten en función de los datos proporcionados por Sentinel.
-
----
-
-**9na Hipótesis**  
-**Creemos que** la posibilidad de enviar mensajes o recomendaciones directas a los usuarios desde la plataforma mejorará la percepción de cercanía y apoyo de las autoridades.  
-**Sabremos que esto es cierto cuando** al menos el 60% de los usuarios valore positivamente la comunicación recibida en encuestas de satisfacción.
 
 ---
 #### 1.2.2.4. Lean UX Canvas
