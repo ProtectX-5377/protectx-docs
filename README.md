@@ -1010,7 +1010,13 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 
 
 ### 4.3.2. Landing Page Mock-up  
----
+<img src="./resources/Cap-4/Landing_Page_Mockup/m1.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m2.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m3.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m4.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m5.png">
+<img src="./resources/Cap-4/Landing_Page_Mockup/m6.png">
+
 ## 4.4. Web Applications UX/UI Design 
 
 <img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup5.png" 
