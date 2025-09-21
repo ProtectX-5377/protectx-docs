@@ -1288,12 +1288,6 @@ muestra una imagen de la colaboración del equipo en GitHub.
 4. ¿Qué nivel de personalización requieren en permisos de acceso a cámaras o alertas?  
 5. ¿Qué esquema de suscripción sería más viable: por unidad habitacional, por sensor común o por administración?
 
-**C. Autoridades locales / Serenazgo**  
-1. ¿Qué dificultades enfrentan hoy para responder a incidentes vecinales?  
-2. ¿Qué tipo de información en tiempo real les facilitaría priorizar emergencias?  
-3. ¿Cómo debería integrarse un sistema de seguridad comunitario con sus protocolos actuales?  
-4. ¿Qué formato de evidencia (video, fotos, reportes automáticos) sería más útil para agilizar su respuesta?  
-5. ¿Qué expectativas tendrían respecto a la colaboración ciudadana mediante apps como ProtectX?
 ### 5.3.2. Registro de entrevistas  
 | Entrevistado | Segmento | Fecha      | Video                                                                                                                            |
 |--------------|----------|------------|----------------------------------------------------------------------------------------------------------------------------------|
