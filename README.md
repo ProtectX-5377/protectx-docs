@@ -538,17 +538,29 @@ Visualizar diseño en Canva: https://www.canva.com/design/DAGzfYolLXw/sM_8Lj1iXQ
 
 ### 2.1.1. Análisis competitivo
 
-> Criterios de comparación: público objetivo principal, complejidad de instalación/uso, costo aproximado, foco geográfico, y capacidades clave (detección, monitoreo, evidencia, colaboración comunitaria, escalamiento a autoridades).
+**¿Por qué llevar a cabo este análisis?**  
+El análisis competitivo busca **identificar fortalezas y debilidades de los competidores**, entender sus mercados y estrategias, y demostrar cómo **ProtectX** ofrece un valor diferencial en el contexto peruano.
 
-| Competidor | Enfoque | Fortalezas | Debilidades | Ventaja de ProtectX |
-|------------|---------|------------|-------------|----------------------|
-| **Verisure (Securitas Direct)** | Alarmas con monitoreo 24/7 para hogares y negocios. | Marca reconocida, instalación profesional, coordinación con serenazgo/PNP. | Contratos largos y costosos, poco flexible para juntas vecinales. | ProtectX es modular, con auto-instalación guiada, alertas inmediatas y funciones de comunidad. |
-| **ADT** | Sistemas de alarma y sensores para el hogar. | Experiencia global, soporte confiable, ecosistema robusto. | Menor integración comunitaria y adaptación local limitada. | ProtectX integra comunidad + hogares con costos escalables y protocolos de respuesta locales. |
-| **Securitas Perú (B2B)** | Seguridad corporativa (monitoreo, CCTV, control de acceso). | Portafolio amplio, servicios gestionados, SOC 24/7. | Costos elevados, pensado para empresas, no hogares. | ProtectX empaqueta lo esencial en una solución accesible para familias, juntas y autoridades locales. |
-| **Ring (Amazon)** | Cámaras/timbres inteligentes con app móvil. | Interfaz simple, ecosistema smart home, fácil adopción. | Sin vínculo con autoridades locales; soporte LATAM limitado. | ProtectX conecta sensores/cámaras a serenazgo/PNP y fomenta coordinación vecinal. |
-| **Hikvision / Dahua (kits IoT)** | Cámaras y alarmas con analítica perimetral. | Amplia oferta, disponibilidad en Perú, hardware sólido. | Requiere configuración técnica, apps dispersas, sin monitoreo nativo. | ProtectX centraliza sensores + cámaras en una sola app con escalamiento automático de alertas. |
-| **SimpliSafe** | Alarmas con autoservicio. | Instalación sencilla, app clara. | No disponible oficialmente en LATAM; sin coordinación comunitaria. | ProtectX es local-first, con comunidad y autoridades integradas en el flujo de respuesta. |
-| **Aseguradoras con servicios de alarma** | Paquetes de seguro + monitoreo. | Credibilidad, soporte integral. | Planes caros, poco flexibles, sin comunidad. | ProtectX es más accesible, escalable y diseñado para Lima Metropolitana. |
+---
+
+| **Aspecto** | **ProtectX** | **Verisure (Securitas Direct)** | **ADT** | **Ring (Amazon)** |
+|-------------|--------------|---------------------------------|---------|-------------------|
+| **Perfil** |||||
+| **Overview** | Plataforma IoT modular con sensores y cámaras, auto-instalación, alertas inmediatas, comunidad y conexión con serenazgo/PNP. | Alarmas profesionales con monitoreo 24/7 para hogares y negocios. | Sistemas de alarma y sensores para el hogar con soporte global. | Cámaras y timbres inteligentes conectados a una app móvil. |
+| **Ventaja competitiva / Valor ofrecido** | Localización en Perú, colaboración comunitaria, escalamiento a autoridades, accesibilidad y modelo modular. | Marca reconocida, instalación profesional, confianza en el mercado. | Experiencia global, soporte confiable, ecosistema robusto. | Facilidad de uso, interfaz clara, ecosistema smart home. |
+| **Nivel de Marketing** |||||
+| **Mercado objetivo** | Familias, juntas vecinales, pequeños negocios urbanos en Lima Metropolitana. | Hogares y negocios de nivel medio-alto. | Hogares con capacidad de pago medio-alto, clientes corporativos. | Hogares con interés en IoT y smart home. |
+| **Estrategias de marketing** | Campañas digitales locales, alianzas con municipalidades, juntas vecinales y universidades. Modelo freemium/premium. | Venta directa con contratos largos y campañas masivas en medios tradicionales. | Promoción por reputación global, planes de soporte. | Estrategia global vía Amazon, marketing digital masivo en e-commerce y redes sociales. |
+| **Perfil de Producto** |||||
+| **Productos & Servicios** | Sensores IoT, cámaras, chat comunitario, mapa de incidentes, escalamiento de alertas. | Alarmas, sensores, monitoreo 24/7. | Alarmas, sensores, monitoreo de alarmas y cámaras. | Cámaras, timbres inteligentes, app de control. |
+| **Precios & Costos** | Escalables, accesibles. Plan básico gratuito + planes premium con más funciones. | Elevados, contratos largos. | Costos medios-altos, soporte incluido. | Costo de dispositivos + app gratuita. |
+| **Canales de distribución (Web/Móvil)** | App móvil propia, integración web, auto-instalación guiada por el usuario. | Venta directa, instaladores certificados. | Venta directa y distribuidores autorizados. | Venta online vía Amazon y retail. |
+| **Análisis SWOT** |||||
+| **Fortalezas** | Localización peruana, integración comunitaria, escalamiento a serenazgo/PNP, modularidad y accesibilidad. | Reconocimiento de marca, confianza, experiencia. | Reputación global, soporte robusto, ecosistema consolidado. | Simplicidad de uso, ecosistema smart home. |
+| **Debilidades** | Requiere generar confianza inicial en usuarios nuevos. | Planes costosos y contratos rígidos. | Menor adaptación local, poca integración comunitaria. | Sin vínculo con autoridades, soporte LATAM limitado. |
+| **Oportunidades** | Expansión a más distritos y ciudades, alianzas con municipalidades y aseguradoras locales. | Crecimiento en hogares premium. | Ampliar alcance a sectores emergentes en LATAM. | Expandirse en LATAM con soporte localizado. |
+| **Amenazas** | Competidores con más presupuesto, entrada de nuevos players IoT en Perú. | Soluciones locales más accesibles. | Nuevos competidores digitales con mayor adaptación local. | Desconfianza por privacidad y regulación local. |
+
 
 **Resumen de ventaja competitiva de ProtectX**  
 - **Localización en Lima/Perú**: rutas de alerta a serenazgo/PNP configuradas por distrito.  
