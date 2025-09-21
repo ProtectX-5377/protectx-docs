@@ -496,23 +496,6 @@ Visualizar diseño en Canva: https://www.canva.com/design/DAGzfYolLXw/sM_8Lj1iXQ
 
 ---
 
-#### Segmento Objetivo 3: Autoridades locales y serenazgo
-
-**Aspectos Demográficos:**
-- **Sexo:** Masculino y femenino
-- **Edades:** 25 a 60 años
-- **Ocupación:** Personal de serenazgo, policías municipales, funcionarios de seguridad ciudadana
-
-**Aspectos Geográficos:**
-- **Ubicación:** Municipios y distritos de Lima y alrededores
-
-**Aspectos Psicográficos:**
-- **Motivaciones:** Mejorar la capacidad de respuesta y monitoreo, optimizar recursos y coordinación con la comunidad
-- **Preocupaciones:** Falta de información en tiempo real, dificultad para priorizar emergencias, baja colaboración vecinal
-- **Adaptación a la tecnología:** Interés en herramientas que automaticen alertas y centralicen información para la toma de decisiones
-
----
-
 # Capítulo II: Requirements Elicitation & Analysis — ProtectX
 
 ## 2.1. Competidores
