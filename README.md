@@ -819,6 +819,8 @@ IDE: Entorno de Desarrollo Integrado
 | US15 | Canales alternativos |Como visitante, quiero encontrar enlaces a redes sociales y chat de soporte, para comunicarme fácilmente con Sentinel. | **Escenario 1:** Dado que el visitante revisa el footer, cuando lo observa, entonces encuentra iconos de redes sociales.<br>**Escenario 2:** Dado que el visitante busca soporte, cuando hace clic en el chat, entonces se abre una ventana de ayuda inmediata. | EPIC-07 |
 
 ## 3.3. Impact Mapping  
+<img src="./resources/Cap-3/Impactmapping.png" alt="Impact Mapping">
+
 ## 3.4. Product Backlog  
 
 | Orden | User Story Id | Título | Descripción | Story Points |
