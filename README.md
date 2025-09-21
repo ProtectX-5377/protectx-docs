@@ -1013,6 +1013,13 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 ---
 ## 4.4. Web Applications UX/UI Design  
 ### 4.4.1. Web Applications Wireframes  
+
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe1.png" alt="Wireframe1"> 
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe2.png" alt="Wireframe1"> 
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe3.png" alt="Wireframe1"> 
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe4.png" alt="Wireframe1"> 
+<img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe5.png" alt="Wireframe1"> 
+
 ### 4.4.2. Web Applications Wireflow Diagrams  
 ### 4.4.3. Web Applications Mock-ups  
 ### 4.4.4. Web Applications User Flow Diagrams  
