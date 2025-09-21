@@ -1022,6 +1022,13 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 
 ### 4.4.2. Web Applications Wireflow Diagrams  
 ### 4.4.3. Web Applications Mock-ups  
+
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup1.png" alt="Mockup1"> 
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup2.png" alt="Mockup2"> 
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup3.png" alt="Mockup4"> 
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup4.png" alt="Mockup4"> 
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup5.png" alt="Mockup5"> 
+
 ### 4.4.4. Web Applications User Flow Diagrams  
 ---
 ## 4.5. Web Applications Prototyping  
