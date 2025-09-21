@@ -585,9 +585,9 @@ El análisis competitivo busca **identificar fortalezas y debilidades de los com
 | Entrevistado | Segmento | Fecha      | Video                                                                                                                            |
 |--------------|----------|------------|----------------------------------------------------------------------------------------------------------------------------------|
 | INT-001      | Hogar    | 08/09/2025 | [![Ver video](resources/Cap-1/SSInterview1)](https://drive.google.com/file/d/1ULhjDtqXoQH0KRz3L7NDmq6DvCik1M0b/view?usp=sharing) |
-| INT-002      | Junta/Administrador | 16-09-2025 | [![Ver video](resources/Cap-2/Christian.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EeioWrabT_9Hl0h29N9C2bUBo3IXoQKWewVzcleUHOOlxA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aVkcFt)                                                          |
-| INT-003      | Hogar | 20/09/2025 | [![Ver video](resources/Cap-2/Jhonny.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318220_upc_edu_pe/EX9oxP36OglAir2udy8mAoEBPnmVURdAYtR-Rs7GEmq8ww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nXVmzH)                                                                                       |
-
+| INT-002      | Junta/Administrador | 16-09-2025 | [![Ver video](resources/Cap-2/Christian.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/EeioWrabT_9Hl0h29N9C2bUBo3IXoQKWewVzcleUHOOlxA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aVkcFt)                                                         |
+| INT-003      | Hogar | 20/09/2025 | [![Ver video](resources/Cap-2/Jhonny.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318220_upc_edu_pe/EX9oxP36OglAir2udy8mAoEBPnmVURdAYtR-Rs7GEmq8ww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nXVmzH)                                                                                      |
+| INT-004      | Junta/Administrador | 20/09/2025 | [![Ver video](resources/Cap-2/hans-interview.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c036_upc_edu_pe/ES5yQPpn2zZNnfA1M43te2YBLZ-_12wKajbaNo-9knbHqg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TIOoSc)|
 | … | … | … | … |
 
 ---
@@ -1060,7 +1060,7 @@ Link: https://www.figma.com/proto/MZClATrhM0Gkr5MmAOzJ4b/Untitled?node-id=91-114
 ## 4.8. Database Design  
 ### 4.8.1. Database Diagram  
 
----
+<img src="./resources/Cap-4/Database_Diagram/Diagrama%20de%20base%20de%20datos.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment  
 
