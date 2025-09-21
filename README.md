@@ -1011,7 +1011,10 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 
 ### 4.3.2. Landing Page Mock-up  
 ---
-## 4.4. Web Applications UX/UI Design  
+## 4.4. Web Applications UX/UI Design 
+
+<img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup5.png" 
+
 ### 4.4.1. Web Applications Wireframes  
 
 <img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe1.png" alt="Wireframe1"> 
@@ -1020,7 +1023,9 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 <img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe4.png" alt="Wireframe1"> 
 <img src="./resources/Cap-4/Web_Applications_Wireframes/Wwireframe5.png" alt="Wireframe1"> 
 
-### 4.4.2. Web Applications Wireflow Diagrams  
+### 4.4.2. Web Applications Wireflow Diagrams 
+<img src="./resources/Cap-4/Web-Applications-Wireflow-Diagrams/Wireflow1.png" alt="Wireflow">  
+
 ### 4.4.3. Web Applications Mock-ups  
 
 <img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup1.png" alt="Mockup1"> 
@@ -1030,7 +1035,9 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 <img src="./resources/Cap-4/Web_Applications_Mockups/Wmockup5.png" alt="Mockup5"> 
 
 ### 4.4.4. Web Applications User Flow Diagrams  
----
+
+<img src="./resources/Cap-4/Web_Applications_user_flow_Diagrams/Userflow1.png" alt="Mockup5"> 
+
 ## 4.5. Web Applications Prototyping  
 ---
 ## 4.6. Domain-Driven Software Architecture  
