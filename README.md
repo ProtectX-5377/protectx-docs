@@ -833,7 +833,7 @@ IDE: Entorno de Desarrollo Integrado
 | 6 | US-10 | Portal de administradores | Como administrador, quiero acceder a un portal exclusivo, para gestionar usuarios y sensores. | 8 |
 | 7 | US-11 | Alertas inmediatas a autoridades | Como administrador, quiero enviar alertas inmediatas a la policía desde la plataforma, para recibir apoyo rápido. | 8 |
 | 8 | US-12 | Soluciones colectivas | Como junta vecinal, quiero ver información sobre soluciones colectivas, para evaluar Sentinel como opción de seguridad comunitaria. | 5 |
-| 8 | US-13 | Acceso a documentación técnica | Como desarrollador, quiero acceder a documentación técnica y API keys desde la landing, para integrar Sentinel en otras plataformas. | 5 |
+| 9 | US-13 | Acceso a documentación técnica | Como desarrollador, quiero acceder a documentación técnica y API keys desde la landing, para integrar Sentinel en otras plataformas. | 5 |
 | 10 | US-15 | Canal de contacto directo | Como usuario interesado, quiero un canal directo de contacto, para resolver dudas o pedir más información. | 3 |
 | 11 | US-06 | Testimonios de clientes | Como visitante, quiero ver testimonios y casos de éxito, para confiar en la solución antes de registrarme. | 3 |
 | 12 | US-07 | Logos de aliados estratégicos | Como visitante, quiero ver logos de empresas aliadas, para reforzar la credibilidad de Sentinel. | 2 |
