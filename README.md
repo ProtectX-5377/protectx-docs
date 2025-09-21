@@ -53,7 +53,13 @@ Agosto del 2025 🗓️
 ## Project Report Collaboration Insights
 > Aquí se registran observaciones del trabajo colaborativo, contribuciones por sprint y aprendizajes.
 
----
+Link del Reporte:
+
+https://github.com/ProtectX-5377/protectx-docs
+
+Link de la Landin Page:
+
+https://github.com/ProtectX-5377/protectx-landing 
 
 ## Contenido del Informe
 
