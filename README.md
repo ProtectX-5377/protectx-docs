@@ -1286,8 +1286,53 @@ muestra una imagen de la colaboración del equipo en GitHub.
 
 <img src="./resources/Cap-5/commits%20integrantes.PNG">
 
----
+### 5.2.2 Sprint 2
+
+#### 5.2.2.1 Sprint Planning 2
+
+| **Sprint #**| **Sprint 2**                                                                                                                                                                                                                                                                                                                                                                                                |
+|--- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ***Sprint Planning Background***  |                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Date** | 2025-10-04                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Time** | 2:00 PM                                                                                                                                                                                                                                                                                                                                                                                                     | 
+| **Location** | Reunión virtual por Discord (Lima, Perú)                                                                                                                                                                                                                                                                                                                                                                    |
+| **Prepared By**  | Daniel Ruiz                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Attendees (to planning meeting)** | Daniel Ruiz, Carlos De La Cruz Villarreal, Jude Hermosa, Fabrizio Quiroz, Liam Villugas                                                                                                                                                                                                                                                                                                                     | 
+| **Sprint n – 1 Review Summary** | En el Sprint 1 se completó exitosamente el desarrollo y despliegue de la Landing Page de Sentinel. Se implementaron las secciones clave con un diseño responsive y con language switcher. La página está desplegada en netlify y está completamente funcional                                                                                                                                               |
+| **Sprint n – 1 Retrospective Summary** | El equipo identificó como fortalezas la comunicación efectiva a través de Discord garantizando el cumplimiento de los objetivos planteados. Como áreas de mejora se identificó la necesidad de realizar más pruebas de usabilidad con usuarios reales. Para el Sprint 2 se acordó implementar revisiones de código (code reviews) antes de cada merge y realizar testing incremental durante el desarrollo. |
+| ***Sprint Goal & User Stories*** |                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Sprint 1 Goal** | Nos enfocaremos en poder terminar exitosamente gran parte del frend realizando las funcionalidades del core de negocio en esta entrega. El front será desplegado completamente funcional.                                                                                                                                                                                                                   |
+| **Sprint 1 Velocity** | 17                                                                                                                                                                                                                                                                                                                                                                                                          | 
+| **Sum of Story Points** | 17                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+#### 5.2.2.2 Aspect Leaders and Collaborators
+
+En esta sección se presentan los principales aspectos funcionales y técnicos abordados durante el Sprint 2 del desarrollo de Sentinel . Cada aspecto corresponde a un componente crítico del alcance del sprint, dividido en dos pilares fundamentales: desarrollo del Front End y estructuración del informe técnico del proyecto.
+
+Para cada aspecto, se ha asignado un Líder (L), quien asumió la responsabilidad principal de su diseño, implementación o coordinación técnica; y uno o más Colaboradores (C), quienes participaron activamente en la ejecución, revisión, pruebas o soporte. Esta matriz LACX (Leadership and Collaboration Matrix) permite visualizar de manera clara y estructurada la distribución de responsabilidades dentro del equipo, promoviendo la trazabilidad del trabajo colaborativo realizado durante el Sprint.
+
+| Team Member (Last Name, First Name) | GitHub Username | FE | BE | DB | IN | DP |
+|-------------------------------------|-----------------|---|----|----|----|----|
+| Daniel Ruiz                         | DanRuizPeru     | L | C  | C  | C  | C  |
+| Liam Villugas                       | Liamvillugas    | C | L  | C  | C  | C  |
+| Carlos De La Cruz Villarreal        | carlos03dlc     | C | C  | L  | C  | C  |
+| Fabrizio Quiroz                     | Relycloud       | C | C  | C  | L  | C  |
+| Jude Hermoza                        | JudeWYA         | C | C  | C  | C  | L  |
+
+**Legenda de Aspectos:**
+
+FE: Frontend Web Application — Desarrollo de componentes Vue.js, gestión de estado, enrutamiento y UI/UX.
+BE: Backend API Development — Desarrollo de endpoints RESTful, lógica de negocio, validaciones y controladores.
+DB: Database Design & Integration — Diseño de esquemas, migraciones, consultas SQL y optimización .
+IN: Informe Técnico — Actualización, estructuración y redacción de la documentación del Sprint 2 .
+DP: Deployment & Testing — Configuración de Render, CI/CD, pruebas de integración y QA.
+
+#### 5.2.2.3 Sprint Backlog 2
+
+
+
 ## 5.3. Validation Interviews  
+
 ### 5.3.1. Diseño de entrevistas  
 **Preguntas por Segmento Objetivo**
 
