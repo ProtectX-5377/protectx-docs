@@ -1,42 +1,47 @@
 <!--* Carátula -->
 
+
+<div align="center"><img src="./resources/Cap-1/upclogo.png" alt="Banner UPC" width=250>
+
+## Universidad Peruana de Ciencias Aplicadas ♨️ 
+
+**Facultad:** Ingeniería
+
+🧑‍💻 **Carrera:** Ingeniería de Software 
+
+**Periodo: 202520**
+
+**Código del curso:** 1ASI0729 
+
+**Nombre del curso:** Desarrollo de Aplicaciones Open Source
+
+**NRC:** 7357  
+
+**Nombre del profesor:** Rafael Oswaldo Castro Veramendi  
+
+## Informe de Trabajo Final 
+
+**Nombre del Startup:** ProtectX
+
+**Nombre del Producto:** Sentinel  
+
 <div align="center">
+  
+Integrantes
 
-# Informe de Trabajo Final 📙
+| Apellidos y nombres                                         |   Código   |
+| :----------------------------------------------------| :--------: |     
+| Ruiz Huisa, Daniel Elias                             | U202210764 |
+| Villugas Jeronimo , Liam Anderson                    | U202211634 |
+| Quiroz Zambrano, Fabrizio Javier                     | U202213406 |
+| Hermoza Quispe, Jude Alessandro                      | U202318220 |
+| De La Cruz Villarreal, Carlos Alejandro              | U20211c036 |
 
-<img src="./resources/Cap-1/Banner-UPC.png" alt="Banner UPC">
 
-### Universidad Peruana de Ciencias Aplicadas ♨️
-
-🧑‍💻 **Carrera:** Ingeniería de Software – 2025-02  
-
-**Código y nombre del curso:** [1ASI0729] - [Desarrollo de Aplicaciones Open Source]  
-
-**Sección:** 7414  
-
-**Docente:** Rafael Oswaldo Castro Veramendi  
-
-**Startup:** ProtectX
-
-**Producto:** Sentinel  
-
-<div align='left'>  
-
-~~~C#
-static string[] Integrantes() {
-    return new string[] {
-        "🧑‍💻 Ruiz Huisa, Daniel Elias - 202210764",
-        "🧑‍💻 Villugas Jeronimo , Liam Anderson - 202211634",
-        "👨‍💻 Quiroz Zambrano, Fabrizio Javier - 202213406",
-        "👩‍💻 Hermoza Quispe, Jude Alessandro - 202318220",       
-        "👩‍💻 De La Cruz Villarreal, Carlos Alejandro - 20211c036, 
-    };
-}
-~~~
 
 </div>
 
-Agosto del 2025 🗓️  
+Diciembre del 2025 🗓️  
 
 </div>
 
